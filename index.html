@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Professional ceiling track system installation for schools. One Source Mobility provides safe, reliable mobility solutions for educational facilities.">
+    <meta name="keywords" content="ceiling track systems, school mobility, patient lift, accessibility, mobility installer, school safety">
+    <title>Ceiling Track Systems for Schools | One Source Mobility</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header/Navigation */
+        header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            margin-left: 2rem;
+            transition: opacity 0.3s;
+        }
+
+        .nav-links a:hover {
+            opacity: 0.8;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 6rem 0;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            animation: fadeInUp 1s;
+        }
+
+        .hero p {
+            font-size: 1.3rem;
+            margin-bottom: 2rem;
+            opacity: 0.95;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: #ff6b6b;
+            color: white;
+            padding: 1rem 2.5rem;
+            text-decoration: none;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+        }
+
+        /* Section Styles */
+        section {
+            padding: 4rem 0;
+        }
+
+        section:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #1e3c72;
+        }
+
+        /* About Section */
+        .about-content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        /* Features Grid */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .feature-card h3 {
+            color: #1e3c72;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        /* Benefits Section */
+        .benefits-list {
+            max-width: 900px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .benefit-item {
+            background: white;
+            padding: 1.5rem;
+            border-left: 4px solid #667eea;
+            border-radius: 5px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+
+        .benefit-item h3 {
+            color: #1e3c72;
+            margin-bottom: 0.5rem;
+            font-size: 1.2rem;
+        }
+
+        /* Why Choose Us Section */
+        .why-choose {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+        }
+
+        .why-choose h2 {
+            color: white;
+        }
+
+        .why-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .why-item {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .why-item h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Contact Section */
+        .contact {
+            background: #f8f9fa;
+            text-align: center;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .contact-item {
+            flex: 1;
+            min-width: 250px;
+            max-width: 300px;
+        }
+
+        .contact-item h3 {
+            color: #1e3c72;
+            margin-bottom: 0.5rem;
+        }
+
+        .contact-item a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .contact-item a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            background: #1e3c72;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero p {
+                font-size: 1.1rem;
+            }
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-info {
+                flex-direction: column;
+                gap: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav class="container">
+            <div class="logo">One Source Mobility</div>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="#features">Features</a>
+                <a href="#benefits">Benefits</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Ceiling Track Systems for Schools</h1>
+            <p>Professional Installation of Safe & Reliable Mobility Solutions</p>
+            <a href="#contact" class="cta-button">Get a Free Consultation</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>Expert Ceiling Track System Installation</h2>
+            <div class="about-content">
+                <p>One Source Mobility specializes in the professional installation of ceiling track systems for educational facilities. Our ceiling-mounted mobility solutions provide safe, dignified transfer assistance for students with mobility challenges, ensuring accessibility and independence throughout your school.</p>
+                <br>
+                <p>With years of experience in mobility installations, we understand the unique requirements of educational environments and work closely with schools to deliver customized solutions that meet all safety standards and regulations.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features">
+        <div class="container">
+            <h2>Ceiling Track System Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🏗️</div>
+                    <h3>Custom Design</h3>
+                    <p>Tailored ceiling track layouts designed specifically for your school's floor plan, ensuring optimal coverage in classrooms, restrooms, therapy rooms, and common areas.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔒</div>
+                    <h3>Safety First</h3>
+                    <p>All installations meet or exceed industry safety standards with tested weight capacities, secure mounting systems, and comprehensive safety features to protect students and staff.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>Quick Installation</h3>
+                    <p>Efficient installation process minimizes disruption to school operations. We work around your schedule and complete projects during breaks or after hours when possible.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🛠️</div>
+                    <h3>Professional Service</h3>
+                    <p>Certified installers with specialized training in mobility systems, structural engineering, and educational facility requirements ensure top-quality workmanship.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">♿</div>
+                    <h3>ADA Compliant</h3>
+                    <p>All installations fully comply with ADA requirements and accessibility standards, ensuring your facility meets all legal and ethical obligations.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📞</div>
+                    <h3>Ongoing Support</h3>
+                    <p>Comprehensive training for staff, detailed documentation, and responsive maintenance support to keep your system operating safely and efficiently.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefits Section -->
+    <section id="benefits">
+        <div class="container">
+            <h2>Benefits for Schools</h2>
+            <div class="benefits-list">
+                <div class="benefit-item">
+                    <h3>✓ Enhanced Student Safety</h3>
+                    <p>Reduce the risk of injury during transfers for both students and staff with secure, overhead support systems.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>✓ Increased Independence</h3>
+                    <p>Empower students with mobility challenges to navigate school spaces more independently and confidently.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>✓ Staff Protection</h3>
+                    <p>Minimize workplace injuries and reduce physical strain on teachers and aides during student transfers.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>✓ Space Efficiency</h3>
+                    <p>Ceiling-mounted systems free up valuable floor space in classrooms and therapy areas for other activities.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>✓ Cost Effective</h3>
+                    <p>Long-term durability and reduced injury claims make ceiling tracks a smart investment for your school.</p>
+                </div>
+                <div class="benefit-item">
+                    <h3>✓ Regulatory Compliance</h3>
+                    <p>Meet accessibility requirements and demonstrate commitment to inclusive education environments.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us Section -->
+    <section class="why-choose">
+        <div class="container">
+            <h2>Why Choose One Source Mobility?</h2>
+            <div class="why-grid">
+                <div class="why-item">
+                    <h3>📋 Experienced Team</h3>
+                    <p>Years of specialized experience installing mobility systems in educational facilities across the region.</p>
+                </div>
+                <div class="why-item">
+                    <h3>🎯 Quality Guarantee</h3>
+                    <p>We stand behind our work with comprehensive warranties and quality assurance on every installation.</p>
+                </div>
+                <div class="why-item">
+                    <h3>💼 Full Service</h3>
+                    <p>From initial consultation and design through installation, training, and ongoing maintenance support.</p>
+                </div>
+                <div class="why-item">
+                    <h3>⭐ Trusted Partner</h3>
+                    <p>Proven track record with schools and educational institutions. Check our references and testimonials.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Get Started Today</h2>
+            <p style="font-size: 1.2rem; margin-bottom: 2rem;">Contact us for a free consultation and site assessment</p>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <h3>📞 Phone</h3>
+                    <p><a href="tel:+1-555-0100">Call (555) 010-0100</a></p>
+                </div>
+                <div class="contact-item">
+                    <h3>✉️ Email</h3>
+                    <p><a href="mailto:info@onesourcemobility.com">info@onesourcemobility.com</a></p>
+                </div>
+                <div class="contact-item">
+                    <h3>📍 Location</h3>
+                    <p>Serving Schools Nationwide</p>
+                </div>
+            </div>
+            <br><br>
+            <a href="mailto:info@onesourcemobility.com" class="cta-button">Request a Quote</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 One Source Mobility. All rights reserved.</p>
+            <p>Professional Mobility Installation Services | Ceiling Track Systems for Schools</p>
+        </div>
+    </footer>
+</body>
+</html>
