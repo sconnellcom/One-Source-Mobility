@@ -25,39 +25,6 @@
             padding: 0 20px;
         }
 
-        /* Header/Navigation */
-        header {
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-            color: white;
-            padding: 1rem 0;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-        }
-
-        nav {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .logo {
-            font-size: 1.5rem;
-            font-weight: bold;
-        }
-
-        .nav-links a {
-            color: white;
-            text-decoration: none;
-            margin-left: 2rem;
-            transition: opacity 0.3s;
-        }
-
-        .nav-links a:hover {
-            opacity: 0.8;
-        }
-
         /* Hero Section */
         .hero {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -261,14 +228,6 @@
             text-decoration: underline;
         }
 
-        /* Footer */
-        footer {
-            background: #1e3c72;
-            color: white;
-            text-align: center;
-            padding: 2rem 0;
-        }
-
         /* Animations */
         @keyframes fadeInUp {
             from {
@@ -295,10 +254,6 @@
                 font-size: 2rem;
             }
 
-            .nav-links {
-                display: none;
-            }
-
             .features-grid {
                 grid-template-columns: 1fr;
             }
@@ -311,21 +266,6 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
-    <header>
-        <nav class="container">
-            <div class="logo">One Source Mobility</div>
-            <div class="nav-links">
-                <a href="#about">About</a>
-                <a href="#services">Services</a>
-                <a href="#features">Features</a>
-                <a href="#process">Process</a>
-                <a href="#faq">FAQ</a>
-                <a href="#contact">Contact</a>
-            </div>
-        </nav>
-    </header>
-
     <!-- Hero Section -->
     <section class="hero">
         <div class="container">
@@ -630,13 +570,5 @@
             <a href="mailto:info@onesourcemobility.com" class="cta-button">Get a Free On-Site Assessment</a>
         </div>
     </section>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <p>&copy; 2026 One Source Mobility. All rights reserved.</p>
-            <p>A trusted mobility installer specializing in school environments | Safe, compliant overhead track systems with minimal disruption</p>
-        </div>
-    </footer>
 </body>
 </html>
