@@ -22,7 +22,7 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .container {
@@ -143,7 +143,7 @@ p {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 
 .trust-icon {
@@ -311,7 +311,7 @@ p {
 .serve-card p {
     color: var(--text-light);
     margin-bottom: 0;
-    font-size: 0.95rem;
+    font-size: 1rem;
 }
 
 .serve-note {
