@@ -7,7 +7,9 @@
     box-sizing: border-box;
 }
 
-/* Force base font size to prevent parent page interference */
+/* Force base font size to prevent parent page interference
+   html: 16px provides stable rem calculation base
+   body: 18px sets actual content font size */
 html {
     font-size: 16px !important;
 }
