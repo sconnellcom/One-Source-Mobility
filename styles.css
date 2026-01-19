@@ -112,7 +112,7 @@ p {
 .hero {
     background: linear-gradient(135deg, #0066cc 0%, #004c99 100%);
     color: white;
-    padding: 80px 20px;
+    padding: 80px 0;
     text-align: center;
 }
 
@@ -161,7 +161,7 @@ p {
 
 /* Why Code-Compliant Section */
 .why-compliant {
-    padding: 80px 20px;
+    padding: 80px 0;
     background-color: var(--bg-white);
 }
 
@@ -217,7 +217,7 @@ p {
 
 /* PATHWAY Features Section */
 .pathway-features {
-    padding: 80px 20px;
+    padding: 80px 0;
     background-color: var(--bg-light);
 }
 
@@ -285,7 +285,7 @@ p {
 
 /* Who We Serve Section */
 .who-we-serve {
-    padding: 80px 20px;
+    padding: 80px 0;
     background-color: var(--bg-white);
 }
 
@@ -340,7 +340,7 @@ p {
 
 /* Our Process Section */
 .our-process {
-    padding: 80px 20px;
+    padding: 80px 0;
     background-color: var(--bg-light);
 }
 
@@ -389,7 +389,7 @@ p {
 
 /* Why Choose Us Section */
 .why-choose {
-    padding: 80px 20px;
+    padding: 80px 0;
     background-color: var(--bg-white);
 }
 
@@ -433,7 +433,7 @@ p {
 
 /* Contact Form / CTA Footer Section */
 .cta-footer {
-    padding: 80px 20px;
+    padding: 80px 0;
     background: linear-gradient(135deg, #004c99 0%, #0066cc 100%);
     color: white;
 }
@@ -511,7 +511,7 @@ p {
 .site-footer {
     background-color: var(--text-dark);
     color: white;
-    padding: 2rem 20px;
+    padding: 2rem 0;
     text-align: center;
 }
 
@@ -574,7 +574,7 @@ p {
 
 @media (max-width: 480px) {
     .hero {
-        padding: 60px 20px;
+        padding: 60px 0;
     }
     
     .hero-headline {
@@ -591,7 +591,7 @@ p {
     .our-process,
     .why-choose,
     .cta-footer {
-        padding: 60px 20px;
+        padding: 60px 0;
     }
 }
 
