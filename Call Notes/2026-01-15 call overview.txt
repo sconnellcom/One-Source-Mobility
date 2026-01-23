@@ -1,9 +1,13 @@
 CALL OVERVIEW - January 15, 2026
 One Source Mobility Website Content Meeting
 
-**NOTE: This call was scheduled to discuss website content, but the entire conversation was devoted to Alex's GM resignation situation. No website-related topics were covered. Stephen mentioned he hadn't done as much review for the call as planned because the meeting was moved up, and Alex stated he didn't mind because he was dealing with the GM situation.**
+**NOTE: This call was scheduled to discuss website content. The first 90 minutes covered Alex's GM resignation situation, but the final 15 minutes included important website and product updates discussion.**
 
-MAIN TOPIC: General Manager Resignation
+MAIN TOPICS: General Manager Resignation + Website Updates
+
+---
+
+## WEBSITE & PRODUCT DISCUSSION (Final 15 Minutes)
 
 KEY POINTS:
 
@@ -66,5 +70,117 @@ OUTCOME:
 - Restructuring to focus on admin support and operational efficiency
 - Company direction shifting away from aggressive growth plans
 
-NOTABLE ASIDE:
-Stephen shared story about 2013/2014 job interview candidate who arrived at 8:30am reeking of marijuana and showed portfolio of bongs he made at glass-blowing company (pre-legalization in California).
+---
+
+## WEBSITE & PRODUCT UPDATES DISCUSSED
+
+### 1. VA Housing Grants Page Request
+- Alex wants VA housing grants information added to website
+- Currently on old site under Resources tab
+- Three grant types to feature:
+  - HISA (Home Improvements and Structural Alterations Grant)
+  - SAH (Special Adaptive Housing Grant)
+  - SHA (Special Home Adaptation)
+- Alex noted they don't work with these grants as much anymore (VA must use veteran-owned businesses for products)
+- Came up in conversation with competitors asking about VA grant work
+
+### 2. Product Updates Requested by Alex
+
+**Bruno Independent Living Aids** (NEW):
+- Add Bruno vertical platform lifts (prioritize ABOVE Maxcliff - better manufacturer, more profitable)
+- Add Bruno home elevators as separate category (self-contained units, no elevator shaft needed)
+- Three home elevator models available
+- Bruno products should be featured prominently
+
+**LiftUp Flex Step** (NEW):
+- Different manufacturer from Bruno
+- Unique product: converts stairs into lift system
+- Florida-based company
+- Place above Maxcliff in vertical platform lifts section
+- Link added to Google doc
+
+**Butler Incline Lift**:
+- Sidebar for now - need more information
+- Rudimentary company without extensive materials
+
+**Door Openers** (Major Update):
+- Add Open Sesame door openers ("far greater" than current ones on site)
+- Add Auto Slide (unique - for sliding doors)
+- These are superior to currently listed products
+
+**Ramps**:
+- Prioritize EZ Access ABOVE Prairie View Industries
+- Rarely use PVI ramps anymore ("falling behind")
+
+**Best Bath Tubs**:
+- Don't list all discontinued models individually
+- Create generic landing page: "Many options available - contact us"
+- New product line launching soon (nicer products, white showers)
+- Only highlight RJO Freedom Tub (unique dealership, panel rolls down, transfer-friendly)
+- Best Bath dealership not exclusive (anyone can get it)
+
+**Maxcliff**:
+- Move to BOTTOM of vertical platform lifts page
+- Difficult to even get lifts from them now
+- Doing "less and less"
+
+### 3. Category Restructuring
+- "Custom Wall Panels" → consider renaming to "Barrier-Free Showers" (Best Bath launching new line)
+- Platform lifts vs Home elevators need separation
+- Home elevators = separate page/category
+
+### 4. Business Automation Needs (Discussion for Future Web Development)
+
+Alex shared extensive frustrations with current systems:
+
+**Quoting System** (Critical Priority):
+- Current: Excel-based, not duplicatable
+- Takes years to train new people
+- Needs automated system where selecting "ceiling track system" populates verbiage automatically
+- Currently copying from master list every time
+- "Not sustainable" - consuming too much high-wage employee time
+- Wants to eliminate need for constant quote requests to vendors
+
+**Inventory Management**:
+- Current: Excel spreadsheet with quantities
+- Issues: Multiple people updating creates discrepancies
+- No integration with ordering/CRM
+- Used equipment tracking is manual and in Alex's head
+- Recent inventory revealed substantial used equipment in storage
+
+**Building Permits Process**:
+- "Horrendous" - Nolan was handling but never trained Alex
+- Can't combine multiple sheets into single PDF for plan sets
+- Building departments want 11x17 format for stamping
+- Format changes break everything
+- Need streamlined process
+
+**Ordering Process**:
+- "Sucks" - very taxing, too many steps
+- Service quotes are well behind
+- Master templates exist but still require too much copying
+
+**CRM**: 
+- No CRM system in place
+- Need client tracking and communication management
+
+**Key Philosophy**:
+- Alex doesn't care about upfront cost - cares about effectiveness
+- Would rather spend money on automation than ongoing wages for manual tasks
+- "If I could spend the money upfront... I don't have to pay somebody six figures a year"
+- Needs duplicatable processes that average employees can execute
+- Currently requires above-average employees for Excel-based systems
+
+**Stephen's Potential Role**:
+- Alex open to custom development for these systems
+- Mentioned most competitors probably need similar solutions
+- Willing to pay for solutions that save time/wages
+- Discussion tabled for future calls
+
+---
+
+NOTABLE ASIDES:
+
+1. **NorCal Mobility History**: Alex and Stephen both worked with/for Ken Garzinski at NorCal Mobility. Stephen built their first website in college (~2001-2002). Alex worked there 2001-2002, left, then returned 2007-2012 until company sold. Ken was "HR nightmare" but they eventually developed good working relationship.
+
+2. **Interview Story**: Stephen shared about 2013/2014 job interview candidate who arrived at 8:30am reeking of marijuana and showed portfolio of bongs from glass-blowing company (pre-legalization in California).
