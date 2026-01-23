@@ -1,0 +1,939 @@
+Jan 23, 2026
+One Source Mobility Website Content Meeting - Transcript
+00:00:00
+ 
+Stephen Connell: Happy Friday, Alex. How are you doing?
+Alex: I'm good, buddy. How are you? Tell you what,
+Stephen Connell: Good.
+Alex: man. Can we not have ads? Um, I tell you, one of the things that drives me absolutely bonkers these days is when when you go to do something
+Stephen Connell: Yeah.
+Alex: and you have to like answer, I don't want to sign into Google, click this thing, no, I don't want this,
+Stephen Connell: Right.
+Alex: I don't want that, you know, like kind of process. drives me out of my f******
+Stephen Connell: I know.
+Alex: mind.
+Stephen Connell: Yeah. I'm We use Slack and just a few minutes ago I was trying to Slack to chat.
+Alex: Like,
+Stephen Connell: It's like a chat program and uh I use it to contact Brian and it's like
+Alex: yeah.
+Stephen Connell: popping up with like they have a new AI feature and but you got to upgrade to get it.
+Alex: Yes.
+Stephen Connell: I'm like what is this? Like go away. Like I already found what I'm looking for.
+Alex: Yes, I don't want any more information.
+ 
+ 
+00:01:21
+ 
+Stephen Connell: I'm like I already pay you lots of money.
+Alex: Thank you.
+Stephen Connell: Like seriously that should be included. I mean, that's a terrible thing to say,
+Alex: See, no, I agree. Like,
+Stephen Connell: but at the same time,
+Alex: so my go ahead the same
+Stephen Connell: I don't know. At the same time, like the amount I'm paying for the product,
+Alex: time.
+Stephen Connell: like I mean, I I just don't I don't know. I get it. They're trying to have upsells,
+Alex: I do too. I mean I used to always think like if you don't pay for the service you are the you you are the product you
+Stephen Connell: right? Right.
+Alex: know you pay for the service that's what it is but now that has gone away and now it's just constant no matter what I pay or how much I pay I can't get out of it and that
+Stephen Connell: Yeah. Yep.
+Alex: uh by the end of the day I'm exhausted by it and I hate
+Stephen Connell: Yeah. Yeah.
+ 
+ 
+00:02:07
+ 
+Alex: to say that like small clicks like that exhaust but when you're trying to be efficient
+Stephen Connell: They do.
+Alex: and you're trying to do something like yeah like that.
+Stephen Connell: They distract.
+Alex: Yeah. Distract and then physically having to click out of things. Um
+Stephen Connell: Yeah. or it's decision- making like it's asking you to to take your time to make a decision and that that's what takes that mental
+Alex: so
+Stephen Connell: overhead and so for me it's like do you want this I'm like I don't know if I want this so like I'll ignore it because like I might want it but I don't have time to think about it right now so every time it would pop up I'm
+Alex: yes.
+Stephen Connell: like I'm like ah like I know I should look into this like maybe I do want it but like I don't
+Alex: Decision fatigue,
+Stephen Connell: even at that point I didn't even know if it was free or like included or like are they just telling me about a new feature today I
+Alex: huh?
+Stephen Connell: finally looked at it And it was like, "This is what you could have if you paid more." And I was like,
+ 
+ 
+00:02:55
+ 
+Stephen Connell: "Well, screw you guys." Like, I I actually don't want it,
+Alex: Yeah.
+Stephen Connell: and I especially don't want to pay for it right now,
+Alex: No, I agree.
+Stephen Connell: you know?
+Alex: Like that's a Yeah, that decision fatigue is what is is such a killer
+Stephen Connell: Decision fatigue.
+Alex: throughout our day. Um,
+Stephen Connell: Yep.
+Alex: and unfortunately it kind of just is, but you know,
+Stephen Connell: Yep.
+Alex: it's that uh keep everybody busy and doing this and then you know like what I get frustrated is the actual production level of what we're doing or what I'm doing and I'm like why can't I simply just do
+Stephen Connell: Yeah.
+Alex: this f****** task right now? Like what you know?
+Stephen Connell: Right.
+Alex: So um which kind of leads me I was looking at the website last night.
+Stephen Connell: Yep. Mhm.
+Alex: A couple things is this um like uh leads me to this feature like so when we're under product or something like that like if we wanted to go back to another product maybe
+Stephen Connell: Yeah,
+Alex: maybe we have I don't know if we could do like maybe freeze the top banner so it's easy
+ 
+ 
+00:03:56
+ 
+Stephen Connell: we definitely could do
+Alex: to because I was like oh wait a second I got to scroll or go back and I'm like that's one more
+Stephen Connell: that.
+Alex: click that drives me nuts which I'm I know that we're not completely done or anything but that
+Stephen Connell: Yep.
+Alex: I was like, "Oh, interesting."
+Stephen Connell: Absolutely. No,
+Alex: Um,
+Stephen Connell: I think that's a great idea. We'll I'll enable that.
+Alex: and um, not much changed on the home mods, but I see obviously uh, nothing in rentals yet, but I did see like the home elevators, the specialty recliners. You know what's weird, too? I find myself reading up more than down these days.
+Stephen Connell: Oh yeah.
+Alex: And I think it's from scrolling. I think it's the way my fingers like scroll a page. It's easier to scroll up and read than it is down sometimes. Um or I find like if I'm reading something,
+Stephen Connell: Mhm.
+Alex: I'm I'm like almost going down then up then down then up if it's over.
+Stephen Connell: It's It's cuz of advertisements probably.
+ 
+ 
+00:05:00
+ 
+Alex: Is that what's going on?
+Stephen Connell: I don't know.
+Alex: because I'm hyper aware of it and it drives I'm like is there something wrong with
+Stephen Connell: I I was just thinking about it like
+Alex: me?
+Stephen Connell: like I was just doing some searches and it used to be you wanted to get your website above the fold, right?
+Alex: Mhm.
+Stephen Connell: So like you know the that means like when you do a Google search for
+Alex: Right.
+Stephen Connell: mobility or like accessibility or anything like that like we'd want you to come up on the first page without having
+Alex: Mhm.
+Stephen Connell: to scroll above the fold. The fold of the page is like where you have to scroll.
+Alex: Yeah.
+Stephen Connell: But at this point it was like there are so many advertisements and on
+Alex: Yeah.
+Stephen Connell: this particular thing I was searching for like oftent times you you're not above the fold.
+Alex: Mhm.
+Stephen Connell: You could be the first search result and you're below the fold because there's so many ads. But today it was like a fold and a half of advertisements and then the AI
+ 
+ 
+00:05:51
+ 
+Alex: Yes.
+Stephen Connell: response and then the first search result.
+Alex: Yep.
+Stephen Connell: I'm like, dude, I know what website I'm looking for. Like I typed in the name of a company like and then I have to scroll two pages to get to the first search
+Alex: Yeah.
+Stephen Connell: result. Like I don't want to click on an ad and make that company pay for my click.
+Alex: Yeah.
+Stephen Connell: And I certainly don't want to click on any of these other competitors.
+Alex: I know I Yep.
+Stephen Connell: like so
+Alex: I do the same thing.
+Stephen Connell: frustrating.
+Alex: And so like if I see it's a sponsored, I'll try to go below. I'm like, "Oh yeah, I don't want to, you know, have them pay." I get that. you know,
+Stephen Connell: Yeah.
+Alex: like I try to be courteous,
+Stephen Connell: Yeah.
+Alex: but I am finding with most of the searches I do nowadays, it's second page before I can get to um that.
+Stephen Connell: Yeah.
+Alex: And so sometimes if I'm in a hurry, I'm like, "Okay, I I'm trying here, but I'm over it.
+ 
+ 
+00:06:40
+ 
+Stephen Connell: Right.
+Alex: I got to move on." And uh so I was kind of thinking so
+Stephen Connell: I know.
+Alex: um I got an email from RJO Medical this morning and um you know we're they're going to do a big you know part of this website and things of that is product and we're just trying to move some of these cap capital equipment like all the things that's on that resource guide we're trying to put in play just because it's good for us. It doesn't take a lot of labor. Um, and so I was talking to director of sales on that and it's like they're going to start pushing more on the global side of things and more trainings and more things and I'm like good because we're we're going to have these products on our website too and um just kind of getting some of their input to drive things to our website locally and um so that's going to be coming out in the next I think our first training session is like next month or something. So, um, that's what we're trying to do from a product standpoint and a service, you know, like actually servicing these products.
+ 
+ 
+00:07:47
+ 
+Alex: And so, that's what they're kind of trying to do on their side of things to help because, you know, so much of this stuff is like we don't have the budgets to obviously pay for all these sponsored things and stuff. You know, what I'm kind of depending on is these manufacturers spending their money and then driving things to us,
+Stephen Connell: Mhm.
+Alex: local dealers.
+Stephen Connell: Right.
+Alex: um you know so that's the that's the kind of hope and as I was talking to him same thing I
+Stephen Connell: Right.
+Alex: was like yeah I don't you know spend your money um
+Stephen Connell: Yeah. Yeah.
+Alex: but um I was talking to him though and you know that you know hey that we are participating we are spending money to try to put us in a better position so that when we get to the local side of
+Stephen Connell: Mhm.
+Alex: things we're legit you know and
+Stephen Connell: Yeah. Right. See, exactly.
+Alex: um I mean we got.
+Stephen Connell: Well, that's that's
+Alex: So,
+Stephen Connell: great.
+Alex: that's what I was kind of doing this week.
+ 
+ 
+00:08:42
+ 
+Alex: Um,
+Stephen Connell: Let me jump in and go over like what we've got completed uh recently.
+Alex: yeah,
+Stephen Connell: So,
+Alex: perfect.
+Stephen Connell: for our last call, we talked about highlighting the Arjo tubs
+Alex: Mhm. Yeah,
+Stephen Connell: and adding photos of the walk-in tubs,
+Alex: I see that.
+Stephen Connell: best bath tubs.
+Alex: Mhm.
+Stephen Connell: And so,
+Alex: Yes.
+Stephen Connell: that should all be set now.
+Alex: Yeah.
+Stephen Connell: Let's see. Do you want to review that while we're on the on the phone?
+Alex: And I do see the uh I am actually on it right now.
+Stephen Connell: Hey, perfect.
+Alex: And I do see that the only thing I would do where was that the freedom tub for the RGO tubs. There's on that product resource guide. There's a freedom tub it's called.
+Stephen Connell: Okay.
+Alex: And that's the one that the wall comes down on. Freedom bathtub without lift access. Um, I I want to put that at the top of our tubs because that's kind of that's that
+Stephen Connell: Okay.
+Alex: unique sort of tub and one that's not very complicated.
+ 
+ 
+00:09:50
+ 
+Alex: And then um the the tubs like the RGO tubs are the first portion of this and then the walk-in tub which is fine. Then we have walk-in tubs. So yeah,
+Stephen Connell: Yeah,
+Alex: it's that's
+Stephen Connell: I was thinking we should update the top of this page to kind of break it down. So instead of jumping into Arjo tubs,
+Alex: perfect.
+Stephen Connell: it should it'll needs to start with like let's see let's see well it yeah I mean it should start with the title says walk in tubs. That's the name of the page.
+Alex: Mhm.
+Stephen Connell: Probably have a paragraph that talks about it and then have have like two pictures that allows you to Yes,
+Alex: What do they call these things? Let me jump on their site.
+Stephen Connell: maybe we already have that. We have the walk-in tubs. So,
+Alex: Yeah,
+Stephen Connell: the ar tubs just got pushed above this above the
+Alex: you do. Yeah. Which are more
+Stephen Connell: intro. So,
+Alex: important.
+Stephen Connell: I think those just need to I think we need to just not highlight them as arot tubs.
+ 
+ 
+00:10:46
+ 
+Stephen Connell: Like get rid of that arot tubs
+Alex: Um, I'm going to What do they call these?
+Stephen Connell: title.
+Alex: Hygiene. I'm just jumping on their website to see what they actually call these things because that's the one thing that makes us unique in those areas is those they're
+Stephen Connell: Are these not walk-in tubs? That's That's I see.
+Alex: not they call them
+Stephen Connell: But it's a walk-in tubs page. So, we need to Yeah,
+Alex: bath so they call them bath
+Stephen Connell: we need to retitle the page.
+Alex: systems.
+Stephen Connell: How do these work?
+Alex: So you use of the lifting piece of of equipment to lower them.
+Stephen Connell: Uh
+Alex: But the cool thing like the RASP Rapsidity tub like I did a hospital at home um down in
+Stephen Connell: yeah.
+Alex: Fresno for this high level quadriplegic and it's you know like these things can sit in the middle of a floor. They just need a drain system but the entire tub raises and lowers and you have all different
+Stephen Connell: Mhm.
+Alex: types of features including disinfection features too.
+ 
+ 
+00:11:41
+ 
+Alex: So you have people with skin issues,
+Stephen Connell: Mhm.
+Alex: uh burn victims, you know, things of that. So there's all different types. They're basically more of on a therapy side of things. And um unlike a walk-in tub that you have to actually physically,
+Stephen Connell: Mhm.
+Alex: you know, walk in,
+Stephen Connell: Yeah.
+Alex: um like the Parker is like you can use it almost like a bath chair. You know, you can recline, sit the patient up, you know, height adjustable,
+Stephen Connell: Yeah. Okay.
+Alex: like it's such a they're they're stupidly expensive.
+Stephen Connell: I think we need to split this out to its own page cuz,
+Alex: I agree.
+Stephen Connell: you know, I saw this right before the call and I was like,
+Alex: Yeah.
+Stephen Connell: what is going on here? But now I see
+Alex: Yeah. Yeah. And it's kind of what uniquely kind of separates us from the walk-in tub that everybody can get. Um, and that's really kind of like a a big area cuz anybody can get a walk-in tub, but these specialty tubs, like so for instance, on some of these tubs, even from a manufacturer standpoint, if we don't have clinical documentation, um, we can't install these in home care.
+ 
+ 
+00:12:47
+ 
+Alex: So when we have a um an area that this is a need, we go through this whole process from OT, PT, documentation, sent to corporate, yada yada yada, go through. So it's quite a process. Um but the the cool thing about that is it's such a higher level of, you know, customer interaction. You know, we're not just like, hey, can you just install this? we have a whole bunch of, you know, a whole team together to make sure that this patient um is going to be utilizing this appropriately and of course generally speaking it goes with another piece of equipment and so it it's like two product sales for us and uh we don't go it pricing is generally not a
+Stephen Connell: Mhm.
+Alex: conversation because it is what it is. The other cool thing about like Argio an example like you have to sell them like you can't discount
+Stephen Connell: Right.
+Alex: products from them. So that's the the other thing.
+Stephen Connell: Right.
+Alex: So that's that's kind of where we get those referrals that's coming from like acute rehab uh therapists um that are finding us, you know, in this unique space.
+ 
+ 
+00:13:54
+ 
+Stephen Connell: Gotcha. So from from this I think what we need to do is create a new page. Should we call it specialty tubs?
+Alex: Sure.
+Stephen Connell: Okay.
+Alex: Because I was just looking at what they call it.
+Stephen Connell: And I think we should add we should add the word ario to each to the title of each
+Alex: Yes.
+Stephen Connell: product on the
+Alex: Uh, they call it bath systems.
+Stephen Connell: page.
+Alex: RJO bath systems is what they're calling it.
+Stephen Connell: Okay. Is that how that is that what you want to call it? Showers and tubs is the category so called bath systems.
+Alex: Yeah. And then they call their shower like they call their showers uh
+Stephen Connell: Gotcha.
+Alex: chairs shower systems. But I think that almost could be Yeah,
+Stephen Connell: Right. And they're mixed. Should we just call them back? Just like put them on the same
+Alex: just call bath. Yeah, I think so. Yeah,
+Stephen Connell: page.
+Alex: because it's all encompassing, you know, a shower chair like the multi-purpose shower chairs and things like that.
+ 
+ 
+00:14:48
+ 
+Stephen Connell: Yeah.
+Alex: They're all bath systems. The shower trolley system is again, you know, it's all bath systems. Like currently we have um the shower trolley is
+Stephen Connell: Yeah.
+Alex: under uh portable I found that was it was under portable portable hygiene options. We have the shower bay but then we have the shower trolley. Um, but that can go under bath systems cuz it's really not a portable. The the the shower bay is a portable option.
+Stephen Connell: Yeah,
+Alex: It's like I can drop ship that to someone.
+Stephen Connell: you
+Alex: It's a portable option. The shower trolley systems are has to be with some sort of barrierfree shower,
+Stephen Connell: guys,
+Alex: you know, something that has drainage. You know, it's not an all it should go under bath systems with all this other ario stuff.
+Stephen Connell: perfect. Okay,
+Alex: I gotta go to Chico in a minute, by the way.
+Stephen Connell: where are you now?
+Alex: I'm in Roseville. Then after this meeting,
+Stephen Connell: Gota.
+Alex: I got to jam up there for a few appointments. I always love going up.
+ 
+ 
+00:16:01
+ 
+Stephen Connell: All right.
+Alex: It's like an easy drive. All right,
+Stephen Connell: It's gotten easier.
+Alex: so especially with the 70,
+Stephen Connell: It's gotten easier, but
+Alex: just cruise control it after Mary'sville.
+Stephen Connell: Yep.
+Alex: Yeah. All right.
+Stephen Connell: Yeah.
+Alex: So,
+Stephen Connell: Okay. So,
+Alex: um
+Stephen Connell: okay. Okay, so the next one is the max vertical lift.
+Alex: All right, let's go to that vertical platform.
+Stephen Connell: We retitled the page to vertical platform lifts.
+Alex: Yes. And then we highlighted Bruno and Flexstep and then putting Mac at the bottom, which is Yes. What we want to do, do you need um No. Those images look okay from the flex step. I was like, "Oh, we need im." I'm like, "No, that a cool product." And the neat thing about the Flex Step 2
+Stephen Connell: Yes.
+Alex: is where the where the difference is on that is it's it's an expensive thing. So, it's an entirely different category than like just the Bruno vertical platform lift that everybody else kind of has the ability to provide.
+ 
+ 
+00:17:09
+ 
+Alex: This is unique to us because we have the right now um kind of exclusive Northern Central and the product from a standpoint of cost puts us out of our bidding kind of thing because if you want this product you got to you're going to pay twice as much. And then I see the butler too. God, that thing's old,
+Stephen Connell: Yeah.
+Alex: huh? There's such a some of these manufacturers like the this butler is like you're like God you're an old manufacturer. Like it's fine for now. I might come back with a couple of uh different things and and
+Stephen Connell: Mhm.
+Alex: um pictures but right now we don't really have much.
+Stephen Connell: Does that lift you all the way up the stairs?
+Alex: Yeah.
+Stephen Connell: That seems like it would be better than a stair
+Alex: So the other thing it does there Yes.
+Stephen Connell: lift.
+Alex: And the other thing is they have a unique pro is that it will fold up so you can actually store
+Stephen Connell: Mhm.
+Alex: it that way. But yeah, so the the kind of the point of those incline lifts is that you know where you don't have the ability to put in like a home elevator.
+ 
+ 
+00:18:16
+ 
+Alex: You don't have ability to put like a twotory vertical platform lift and then a stairlift is not appropriate because
+Stephen Connell: Yeah.
+Alex: you have a mobility device. Then this comes into play.
+Stephen Connell: Mhm.
+Alex: But the great thing about this is it's you know it's awfully heavy and everything else but you're not modifying anything. So you can care for somebody um you know and and not modify a
+Stephen Connell: Right.
+Alex: home which reduces the cost but you know when let's say that they pass away then you can remove it and you know you have very minimal amount of uh uh repairs to do which is always part of that too. Oh s***
+Stephen Connell: Perfect.
+Alex: that just reminds me something. I just had a client pass. Got to jot this down quickly. So, yeah, that's the uh that's what's kind of unique about that particular product. And it's weird like all these products like I'm like, "Oh, yeah, there's a there's like not much of a you know, category or whatever." But I'm like, "No, actually, this is each one of these kind of represent a um a definitely a a a category that separates
+ 
+ 
+00:19:28
+ 
+Stephen Connell: Yeah.
+Alex: us.
+Stephen Connell: So, we have a new home elevators page and I see it was placed at the bottom of the products menu, but I think that should move into the lifts and ramps
+Alex: I agree.
+Stephen Connell: subsection.
+Alex: I was looking at that, too." Yes, definitely.
+Stephen Connell: I'll admit I kind of had a panic last night. I was like, "Man, I forgot to send the like I took all the notes of stuff we were going to do this week and I worked on the stuff I was going to do, but I was like, I forgot to send all the stuff to Brian to to do all this." And but but then this
+Alex: Well, that's fine because I jo I logged into this thing
+Stephen Connell: morning, this morning I was like, "Wait, he did it all." I was like,
+Alex: like
+Stephen Connell: "Oh, I did send it." So I was like, "Oh, man." So I was like, I was worried about it last night and then it all kind of came together. So I didn't I didn't have a
+ 
+ 
+00:20:15
+ 
+Alex: last night. I was uh I was like, "Oh s***, we have a meeting this morning." Like,
+Stephen Connell: Oh
+Alex: "I need to look at this tonight." And it was like 9:30 and I was I tried to put a cut off at 9:00
+Stephen Connell: yeah.
+Alex: to stop working these days. Yeah.
+Stephen Connell: Oh yeah.
+Alex: And it was I was trying to get this bid kind of done for this preparation of today and then I was like, "Oh, f***. 9 It's 9. All right. I got to look at it.
+Stephen Connell: That's
+Alex: I gotta do it." Uh all right.
+Stephen Connell: perfect.
+Alex: Yeah. So if we move that up, that makes certainly more
+Stephen Connell: Yeah, that'll make more sense.
+Alex: sense
+Stephen Connell: Perfect. All right.
+Alex: and which looks great because then we have the
+Stephen Connell: So,
+Alex: Bruno's um again that we have their products which we have a new rep which I'm going to have. I got to get back with him. We we had a scheduled meeting last week um and we had to reschedule that but so that'll be another conversation with him trying to support us that you know these products are now going to be on our site yada yada yada things.
+ 
+ 
+00:21:21
+ 
+Alex: So, um, that looks good. And then ramps, we still got to put easy access on there.
+Stephen Connell: Okay, hold on. Let me get that in the list. Did we get Did we get that moved up?
+Alex: Then I never know what's
+Stephen Connell: The easy access move above PBI.
+Alex: correct and I never know.
+Stephen Connell: Did it not get moved up?
+Alex: Yes. Correct. Yeah. So easy access is above PVI and in Sterilifts I go back and forth through this. So, if I'm on Bruno's website, stairlifts is two words. But the the funny thing about this is that often times, depending on where it is, it says contact us to find a right stairlift and then they incorporate it into one word. I don't know what the right is, but on Bruno's site,
+Stephen Connell: Mhm.
+Alex: it does have stairlifts as two separate um words. And I think because it says stair lifts, scooter lifts, platform lifts, home elevators, that each one of those words is separate. I think that's why they did that.
+Stephen Connell: Mhm. Is it for the
+ 
+ 
+00:22:44
+ 
+Alex: So maybe we changed Yeah.
+Stephen Connell: consistency?
+Alex: So let's just change that to two words.
+Stephen Connell: Where is that stair lift? Okay. Yeah, I saw that.
+Alex: Yep. It goes back and forth, but I think to be consistent with the manufacturer, let's use two words in that case.
+Stephen Connell: Yeah.
+Alex: And then door openers.
+Stephen Connell: Okay.
+Alex: We still need to add the open sesame. And I'm gonna kind of expand upon the Open Sesame um door operators because the one thing that that is great about the Open Sesame is they have so many different options for people like proximity sensor sensors, um Bluetooth,
+Stephen Connell: Mhm.
+Alex: um you know, voice activation, you know, so many different products that were are open in that area that um help They I can pretty
+Stephen Connell: I was just looking at ramps and I have a note from last week to move open sesame.
+Alex: much
+Stephen Connell: No, no, I have to move easy access above PVI, but I'm not seeing easy
+Alex: correct.
+Stephen Connell: access.
+Alex: Uh let's see. It should be Let's see.
+ 
+ 
+00:23:55
+ 
+Stephen Connell: Is
+Alex: Check the Google thing.
+Stephen Connell: it
+Alex: Why have I Google?
+Stephen Connell: I'm not seeing it on the I'm not seeing it on the page.
+Alex: Why are you default? It is not.
+Stephen Connell: So I wonder we didn't Okay.
+Alex: No, we've never had it on the page. No,
+Stephen Connell: So Okay.
+Alex: we didn't.
+Stephen Connell: So, where should we get
+Alex: I like that when I It is.
+Stephen Connell: that?
+Alex: It should be uploaded. I'm just signing in to see that. Every time I put in Google, it sends me to an investment calculator. Apparently, I need to do that. Apparently, I can't retire.
+Stephen Connell: You're right.
+Alex: Um, what is this? Why am I having to enter C? Having to Why is this doing this? Just trying to get into um the drive and it's asking me to do all those characters and things.
+Stephen Connell: Oh, that
+Alex Grzebski: How do I close you every day or every week? Okay.
+Stephen Connell: You got real quiet
+Alex Grzebski: So, uh,
+Stephen Connell: there.
+ 
+ 
+00:27:20
+ 
+Alex Grzebski: what I was talking is the easy access which is under the modular ramps on the Google Drive. So, the modular ramps, I'm not sure how long I've been off of that is the easy
+Stephen Connell: Okay.
+Alex Grzebski: access category. And the one thing that I want to really highlight on that is that not only the residential ones that we have but the commercial which there's five images there that are HD or the heavy duty because they make a code compliant ramp system for the commercial industry. So anything like um schools or um uh again going back to schools on the ceiling track systems again um they could be used for those but any sort of like temporary um you know um office structure for like developments and things of that and I want to kind of highlight that moving forward because that's a pretty big area that we're not tapping into for the uh commercial ADA
+Stephen Connell: Got you.
+Alex Grzebski: compliant and uh ramp
+Stephen Connell: Okay, perfect.
+Alex Grzebski: systems.
+Stephen Connell: I got a note of that. Let me see here.
+ 
+ 
+00:28:31
+ 
+Stephen Connell: So, All right, hold on one
+Alex Grzebski: Yeah.
+Stephen Connell: All right. All right. So, we have photos of the mod. Are those those modular ramps are all easy access.
+Alex Grzebski: Correct. Yeah. All the Pathway and the Pathway HD are all easy access
+Stephen Connell: Gotcha.
+Alex Grzebski: products including that HD.
+Stephen Connell: Perfect.
+Alex Grzebski: Yeah. So brochure-wise and stuff like that, there's probably a little bit more information in regards to their site. But yeah, that's a big category for us.
+Stephen Connell: Let me see. I got a few things I want to share with you today as well. I've got some landing pages. I have a I have a VA landing page that I thought came together really well based based on our
+Alex Grzebski: Cool.
+Stephen Connell: call last week. Let me I have commercial ramps page as well. Um that one needs I don't know where I left off on it,
+Alex Grzebski: No
+Stephen Connell: but let's um let's see.
+Alex Grzebski: worries.
+ 
+ 
+00:30:31
+ 
+Stephen Connell: Yeah. So, it doesn't have any photos yet and it's got a lot of information in more of like a landing page style. Um,
+Alex Grzebski: Mhm.
+Stephen Connell: but now that I realize that these these photos and I' see I've got another copy with photos, let me see where that went. And now that I realized that these photos are all I don't know, I guess I knew they were here, but I'd forgotten about them. So, but let's let's switch over and let me I got too many windows
+Alex Grzebski: Me
+Stephen Connell: open.
+Alex Grzebski: too. We're doing that. Throw some laundry.
+Stephen Connell: All right. Yeah, let's switch over and take a look at at the uh VA housing grants page.
+Alex Grzebski: Okay,
+Stephen Connell: I'm going to Yeah,
+Alex Grzebski: you just got to share your screen.
+Stephen Connell: like we could do that. Let's
+Alex Grzebski: Or I can go.
+Stephen Connell: see
+Alex Grzebski: If you want me to go to the site or whatever, however you
+Stephen Connell: here.
+Alex Grzebski: easiest.
+ 
+ 
+00:32:13
+ 
+Stephen Connell: I just sent you the link so you can look at it on your own. Um,
+Alex Grzebski: Perfect.
+Stephen Connell: and I'll share my screen.
+Alex Grzebski: Got it.
+Stephen Connell: All well,
+Alex Grzebski: Oh yeah.
+Stephen Connell: yeah.
+Alex Grzebski: Oh, nice.
+Stephen Connell: So this I used AI to generate some images as well that were VA specific.
+Alex Grzebski: Uh yeah, love it. This looks great, dude.
+Stephen Connell: Worked great.
+Alex Grzebski: Yeah. God, I just read an article about, you know, H the uh AI in the last three years with college grads,
+Stephen Connell: Oh
+Alex Grzebski: you know, not finding jobs.
+Stephen Connell: yeah.
+Alex Grzebski: And I'm like, yeah, but it's really not. Like, you got to figure out how to use it.
+Stephen Connell: Yeah. Oh man,
+Alex Grzebski: Parallels.
+Stephen Connell: I've been I've been taking a deep dive on it and it's been
+Alex Grzebski: Yeah,
+Stephen Connell: incredible.
+Alex Grzebski: I'm going to keep expanding on it. I mean, the thing about it is though, like you could spend a lot of time with AI.
+ 
+ 
+00:33:06
+ 
+Alex Grzebski: Um, and uh think that it's going to like so for instance, yeah, probably if I wanted to deep dive and things like that, I could probably obviously figure out some of this stuff, but I have other things to do. And so,
+Stephen Connell: Yeah.
+Alex Grzebski: it's about using it as a tool with somebody that actually has a skill set of knowing what it is.
+Stephen Connell: Exactly.
+Alex Grzebski: It's like, yeah, you can Google something, but you also have to know what you're Googling.
+Stephen Connell: Right.
+Alex Grzebski: Uh, I love this before and after.
+Stephen Connell: Right.
+Alex Grzebski: Yeah. Partner with I love this folder. The VA grants documents. Yeah.
+Stephen Connell: Right.
+Alex Grzebski: And actually has an easy access ramp in it. Nice. Actually, I really like this. I like this ramp system they have. Yeah, this looks great.
+Stephen Connell: I ran into complete wall with stair lifts. Like AI, I got so many bad images.
+Alex Grzebski: Oh yeah,
+Stephen Connell: It could not it could not handle it.
+ 
+ 
+00:34:02
+ 
+Alex Grzebski: it's
+Stephen Connell: It would put the track like across the stairs or like one time it mounted it on the outside of the
+Alex Grzebski: Mhm.
+Stephen Connell: railing. So, it looked all good, but you're like, "Wait, that dude is going to fly up like fly.
+Alex Grzebski: Yeah.
+Stephen Connell: He's going to he's going to be like here. I wonder if I can find him real quick cuz I sent him to my buddy." So, they should be right here.
+Alex Grzebski: That's funny.
+Stephen Connell: I was like, you know, like look at these
+Alex Grzebski: I ran into a ramp in Maine and um I sent the pictures out, but essentially what the ramp was uh basically you had a landing at the end of the ramp that that then then turned to 90°, but it was basically the the person coming down the wheelchair would just go off about a 30in like step right into a yard if they didn't make the make the 90°
+Stephen Connell: Oh yeah. Yeah.
+Alex Grzebski: turn. And I was like, "What the hell is this?" Like why?
+ 
+ 
+00:34:54
+ 
+Alex Grzebski: Like, did you run out of railing or something?
+Stephen Connell: You're like that's not Do you have a picture of that?
+Alex Grzebski: It was so funny.
+Stephen Connell: Because one for our contractor's page.
+Alex Grzebski: Uh,
+Stephen Connell: I was trying to do like a a correct incorrect version cuz
+Alex Grzebski: oh s***. Do I It was It was probably a year ago.
+Stephen Connell: that so
+Alex Grzebski: I'll see if I can find it.
+Stephen Connell: funny.
+Alex Grzebski: But yeah, I'll actually try to find That's a good idea. Um, I'll try to go through some things and see if I can find it in text messaging like of things that that will and I'll also encourage everybody to find bad work pictures.
+Stephen Connell: Mhm. Yeah.
+Alex Grzebski: Um,
+Stephen Connell: Yeah.
+Alex Grzebski: so I'll I'll definitely try that. The other thing we can add is the credentials here. The ATP/CAP certified. We could expand upon that for the other certifications too that we have and just kind of
+Stephen Connell: Oh,
+Alex Grzebski: you know slash the other ones in there too which are I
+ 
+ 
+00:35:46
+ 
+Stephen Connell: here they are.
+Alex Grzebski: even forget
+Stephen Connell: Here we go. Let's see if I can paste images into here. Ah, it won't let me. Oh, I can share my screen here. Let's see. All right. So, I had actually sent them via Facebook Messenger. So, here's my Facebook. But, um, what do you think of this one? Look at that chair lift.
+Alex Grzebski: There's a holy
+Stephen Connell: It's going up the outside of the and then through the through the
+Alex Grzebski: out.
+Stephen Connell: railing.
+Alex Grzebski: Yeah,
+Stephen Connell: I'm like, that's not going to work. Like,
+Alex Grzebski: that's that's that's pretty
+Stephen Connell: what the heck? See, that was unrelated. Or this one. See how it goes like across like it's mounted and it and then the like this one looks good.
+Alex Grzebski: It does. Yeah.
+Stephen Connell: I was like, okay, this one's good. And I was like,
+Alex Grzebski: Except for it goes to the other
+Stephen Connell: "Wait, it goes to the wrong wall." And I tell AI to fix
+ 
+ 
+00:36:42
+ 
+Alex Grzebski: wall.
+Stephen Connell: it.
+Alex Grzebski: Oh, that's a good
+Stephen Connell: Look at the chairs on the wrong side.
+Alex Grzebski: one.
+Stephen Connell: He's like, "Mount, I'mma mount the chair over here, you know." And that was This one's pretty good except for
+Alex Grzebski: It'll just be stationary. Yeah. this bookcase here.
+Stephen Connell: the chairlift has a bookshelf in the way.
+Alex Grzebski: Yeah.
+Stephen Connell: And then we also have the We also have the elevator outside, but it goes to nowhere.
+Alex Grzebski: Yeah.
+Stephen Connell: There's like it like it was so close.
+Alex Grzebski: That's
+Stephen Connell: Let's see.
+Alex Grzebski: funny.
+Stephen Connell: And then this one. Oh my gosh. Like this dude's drilling a hole through the like through the thing. I'm like, oh man installing a grab bar.
+Alex Grzebski: This is comical.
+Stephen Connell: I'm like I don't want it to to look like you did a bad job of installing the grab bar. It was just this stuff was ridiculous.
+Alex Grzebski: That's pretty funny,
+Stephen Connell: Uh yeah,
+Alex Grzebski: man.
+Stephen Connell: I sent it to my buddy who also does a lot with AI and I was like, "Dude, these are these are like not usable." You know,
+ 
+ 
+00:37:42
+ 
+Alex Grzebski: Yeah,
+Stephen Connell: I spent like I I spent quite a bit of money on those and I was like, "I can't get one of these stair lifts to hit."
+Alex Grzebski: that sucks.
+Stephen Connell: But but it it did good on some of the other
+Alex Grzebski: Good effort though.
+Stephen Connell: stuff. The VA stuff,
+Alex Grzebski: Uh yeah,
+Stephen Connell: I thought it worked really well.
+Alex Grzebski: the VA stuff looks really well. And then we'll just add where the ATP caps. We'll add ATP, ECM, caps, clip, CAC, all the credentials there. Maybe we just because there's five of them.
+Stephen Connell: Mhm.
+Alex Grzebski: I got to go get another one, too.
+Stephen Connell: All right. Can So, can you send me a list of of what you want
+Alex Grzebski: Yeah.
+Stephen Connell: there?
+Alex Grzebski: And let me just do this support and let me do that really
+Stephen Connell: Or do we already have those listed listed on the Yeah.
+Alex Grzebski: quick.
+Stephen Connell: Well, you send me which ones you want listed
+Alex Grzebski: Yeah,
+Stephen Connell: there.
+ 
+ 
+00:39:02
+ 
+Alex Grzebski: we'll just do that. I got to get through some CEOs. Gosh, I got to get 20 hours here shortly. It's so expensive to get like continue education all the time now.
+Stephen Connell: Oh yeah.
+Alex Grzebski: But it does do it definitely separates us. So that is good. And um we've certain certainly had that. And then some of these like nobody else can get them like we've discussed. So it is a good thing for us to have that. I'm just going to do this quickly. do this before I move on. And then you're like, "Hey, you never sent those." And I'm like, "Shoot, I didn't. I think I got to start going to conferences again.
+Stephen Connell: I don't know what type of conference
+Alex Grzebski: So the conferences that um have to do with the industry like they have um
+Stephen Connell: is.
+Alex Grzebski: several conferences uh throughout the US and then um and then also building conferences. So there's one in Orlando um that I that usually has the trade show in Vegas and that's a builder one um which I want to go to too.
+ 
+ 
+00:40:55
+ 
+Alex Grzebski: this year they went to Orlando and then um but then uh complex rehab home modification ones I mean they just have them in these two um so generally speaking they have them around the country like one of them is in like Texas there's they're moving one of the conferences down to Southern California which might be very convenient except for it's my wife's birthday which she's says,
+Stephen Connell: Mhm.
+Alex Grzebski: "I don't care." But then there's a little bit of I know she cares because we usually do something for
+Stephen Connell: Yeah.
+Alex Grzebski: that. Um but they're incorporating it in an ATP,
+Stephen Connell: Right.
+Alex Grzebski: the complex rehab um uh that whole space that they're doing it in conjunction with another one with it. And so that's kind of neat. And then um there's basically like three that I should start going to again. It's just expensive. It's time expenses.
+Stephen Connell: Yeah.
+Alex Grzebski: what do you get out of it? But the um CEUs, you know, is a big deal. Um so that's a good way to kind of get all of them knocked out.
+ 
+ 
+00:42:05
+ 
+Alex Grzebski: Like usually I can get like 10 to 15, you know, CUS credits out of that. So that's pretty cool. And I do learn a lot.
+Stephen Connell: Yeah.
+Alex Grzebski: And then of course you meet people um which mostly it's like and sometimes you just need a little bit of motivation like you come back sometimes from a conference and I'm like yeah let's do this you know or I'll find out from other you know people around
+Stephen Connell: Yeah.
+Alex Grzebski: the country like what they're doing and you know sometimes that kind of helps me but and then there's another side of me that gets really introverted in those kind of cases and I'm like I don't want to talk to
+Stephen Connell: Mhm.
+Alex Grzebski: anyone.
+Stephen Connell: Yeah.
+Alex Grzebski: which I ate, but I admittedly do it. I'm like, I don't want to be here. What am I doing? I don't And uh so I Yeah,
+Stephen Connell: Yeah.
+Alex Grzebski: they're like, we're going to have a mixer. I'm like, I'm going back to my hotel room.
+ 
+ 
+00:42:59
+ 
+Alex Grzebski: And I'm like I'm like,
+Stephen Connell: Yeah.
+Alex Grzebski: go do it. I'm like, all right. But yeah. All right. So, yeah, the VA that looks great. Yeah, that came out really well. And the um the other thing is we still have those other um web domain pages. I think what were they? I got on a tangent one day. because um um I had a conversation
+Stephen Connell: What do you mean by web domain pages?
+Alex Grzebski: this didn't we buy like one source for vets and one
+Stephen Connell: Oh, yeah. Yeah,
+Alex Grzebski: things like all those so I was thinking about yeah like do
+Stephen Connell: that'd be great. We defin You can redirect those.
+Alex Grzebski: a redirection of that and then also um I'm going to have a further conversation but there's a possibility that here in in the upcoming um years is doing another partner uh company with a veteranowned um you know like 51% veteranowned to try to go after the actual VA
+ 
+ 
+00:44:12
+ 
+Stephen Connell: Mhm.
+Alex Grzebski: business which would tie into wrapping basically subbing it to one source mobility.
+Stephen Connell: Right.
+Alex Grzebski: So kind of creating what um this market out in the VA business is essentially like these veteranowned
+Stephen Connell: Gotcha.
+Alex Grzebski: companies that are getting these referrals because they have to go there first and then subbing them out to us.
+Stephen Connell: Yep.
+Alex Grzebski: So I'm like why don't I just create a company to do that and then sub it out to myself.
+Stephen Connell: Right. So, are you a veteran or do you So,
+Alex Grzebski: I am not correct.
+Stephen Connell: you you'd partner with somebody that would that would be that?
+Alex Grzebski: Yeah.
+Stephen Connell: Gotcha.
+Alex Grzebski: I do have a competitor that defrauded the government saying that they were and all these years they weren't.
+Stephen Connell: Yeah.
+Alex Grzebski: So I don't want to do that. I would rather do legitimate.
+Stephen Connell: No. Right. And I mean,
+Alex Grzebski: So
+Stephen Connell: it's be good for both of you because he'd be able to pull pull a profit on top of it as
+ 
+ 
+00:45:06
+ 
+Alex Grzebski: yeah.
+Stephen Connell: well.
+Alex Grzebski: Yeah. Yeah. And then if we could just redirect everything back to the one source mobility, keep everybody busy. Obviously, um have a certain amount of money goes towards that,
+Stephen Connell: Yeah.
+Alex Grzebski: but then also have, you know, a certain amount of money for the other company and that's good for me and good for the other person,
+Stephen Connell: Yeah.
+Alex Grzebski: but it also helps one source mobility financially, which obviously I get the benefit of that.
+Stephen Connell: Yeah.
+Alex Grzebski: And then they're just getting basically the the certain amount of the profit from that particular company, which is based on just for the most part, it's the product, you know. So, but the other thing it does is that if we can get into that space a little bit more, it's going to um increase our buying power with these manufacturers, which is going to help us competitively um especially in the modular ramp business in the stair lift business. Those are two big categories that really help as the more volume that we do.
+ 
+ 
+00:46:05
+ 
+Alex Grzebski: Um the other was I saw the um the specialty recliners which is great. Um cuz that's another market again that um nobody has which we haven't had anything on. So I saw that that's great. And then the mattress portion of that was the other thing which I saw which is also nice little landing page. So that way we can hopefully because there is we do do some of those and I need to again kind of do a little bit more on that side. Um and what was there on there first? There's a couple I saw I just had to check this because I'm I'm not super super familiar with it. But um one Okay, so we did miss the uh on the RJO resource guide, the mattress systems, there's the Atmos Air 9000 mattress that is the um that we'll have to add to that mattress category. Um and but the other two are on there or the bed frame. So,
+Stephen Connell: Okay,
+Alex Grzebski: and those those are basically the only mattresses that we're
+ 
+ 
+00:47:30
+ 
+Stephen Connell: let me
+Alex Grzebski: doing. So, yeah, we have the basically the two mattresses and the bed frame is what we have. Why did I close this there? I got to back up the Atmos Air 9000 mattress or whatever it's called. The First Step mattress and whatever this
+Stephen Connell: I
+Alex Grzebski: Aur Les al alternating mattress. Those are the three mattresses. And then the frame, the bed frame is that what I what they can go on. So there's basically three different products there. Two three mattresses, one bed.
+Stephen Connell: see. I I I got you. Yeah.
+Alex Grzebski: I need to push that. And I just realized I have one of these in storage.
+Stephen Connell: All right.
+Alex Grzebski: I need to put out an email. Another thing I actually thought about and I don't think we really want to do it and I think you know it is something we talked about like this used equipment was like how do I how do I like market all this used equipment we have I don't really
+ 
+ 
+00:48:53
+ 
+Stephen Connell: Right.
+Alex Grzebski: know
+Stephen Connell: Probably like Facebook Marketplace or Craigslist or
+Alex Grzebski: yeah do people use Craigslist
+Stephen Connell: eBay.
+Alex Grzebski: anymore
+Stephen Connell: I think so. Yeah, I think Facebook Marketplace is does a decent bit of it, but there's still a lot of people that don't like Facebook.
+Alex Grzebski: I did a great I always used to love Craigslist.
+Stephen Connell: Yeah.
+Alex Grzebski: I always had pretty good success on it. Um, this is coming along well though. I really like this VA page.
+Stephen Connell: Okay. So, here's a See, here's a commercial ramps page that I was working on. It's not It's not done by any means.
+Alex Grzebski: Mhm.
+Stephen Connell: There's no pictures for one. The other one is busted. So,
+Alex Grzebski: Yeah. Yeah, but it kind of follows the suit of but the overall appearance and everything that's here looks good and again like office building,
+Stephen Connell: Mhm. Yeah.
+Alex Grzebski: educational facilities, community venues, healthcare facilities, you know, like you know it there it is like that's what we need on
+ 
+ 
+00:50:11
+ 
+Stephen Connell: Yeah.
+Alex Grzebski: that commercial side of things because they need to be ADA compliant but it's just a nuisance for them.
+Stephen Connell: Right. Right. I know.
+Alex Grzebski: They want to call somebody and be like,
+Stephen Connell: So,
+Alex Grzebski: "Do this."
+Stephen Connell: so do you do you think we should update the ramps page to have more of a look like this and make that your ramps landing page or do you want to keep your ramps page a straight listing of the products that you have like we have now?
+Alex Grzebski: Uh, no. I guess we could just incorporate that as one. Like we don't need two different pages. I mean red the well the one thing here. Let me go back to
+Stephen Connell: So then we could we could update the ramps page to look
+Alex Grzebski: this.
+Stephen Connell: more like this page where it has calls out the benefits and all all the information. Um but then also throughout the page has pictures and the actual
+Alex Grzebski: Yeah.
+Stephen Connell: products or or maybe even at the bottom has like a longer list of
+ 
+ 
+00:51:12
+ 
+Alex Grzebski: Right.
+Stephen Connell: products.
+Alex Grzebski: And the only thing that we would highlight more in that is that also um commercial ADA ramps uh I mean I guess we could maybe say something like it's also residential because residential has nothing to do with ADA but it could I mean I
+Stephen Connell: Right. That's true. So,
+Alex Grzebski: it
+Stephen Connell: in that case, it might be worth having having it separate.
+Alex Grzebski: separate okay maybe if we have
+Stephen Connell: Um, so if if you're going to do if you're going to do actual advertising and pay
+Alex Grzebski: vertical platform
+Stephen Connell: for advertising,
+Alex Grzebski: Mhm.
+Stephen Connell: you'd want to have one for commercial ramps and you want to have one for residential ramps.
+Alex Grzebski: Okay.
+Stephen Connell: And that way you're targeting a very specific group of people and whatever it is that they're expecting to see shows up.
+Alex Grzebski: Gotcha.
+Stephen Connell: You don't want you don't want to have like you don't want to advertise both.
+Alex Grzebski: Makes sense. So under lifts and ramps,
+Stephen Connell: Um
+Alex Grzebski: if we just did vertical platform, then we did, you know, ramps or residential ramps and then commercial ramps.
+ 
+ 
+00:52:09
+ 
+Stephen Connell: Yeah. Yeah.
+Alex Grzebski: That makes sense because I would like to kind of have that because I want to continue to talk to these manufacturers and those things and you know like you know I might be w willing to do that. Um and then also like if I can get financial help from them which I used to be more they used to be better about that.
+Stephen Connell: Mhm.
+Alex Grzebski: Um, but you know, it's one of those things if I can negotiate like, hey, I'll I'll go 50% in this and let's see if we could do a marketing campaign for the next 90 days or something and then I could show them that we actually have this done and go, you know, you put it in their court like, we're doing our side of things. Help
+Stephen Connell: Yeah.
+Alex Grzebski: us.
+Stephen Connell: Yeah. Exactly.
+Alex Grzebski: That's my thoughts there. I got to have some egg bites. I'm forgot to eat yesterday. It was destroying me.
+Stephen Connell: Oh no.
+Alex Grzebski: Yeah, I like that though because then all these things gives me an ability to, you know, invest the money with you doing it, but then I can have a talking point to them and go look at this is what
+ 
+ 
+00:53:37
+ 
+Stephen Connell: Yeah.
+Alex Grzebski: we're doing here because one of the things especially like
+Stephen Connell: Yep. Okay, perfect.
+Alex Grzebski: ramps, stair lifts, vertical platform lifts, the manufacturers are like, "Hey, let's do some of this and do that." you know, and it's like, well, we're not really set up for that right now. We don't, you know, so my conversation has been with them is that we are going through this to launch a new site and we're going
+Stephen Connell: Mhm.
+Alex Grzebski: to, you know, we'll reconvene on
+Stephen Connell: Yeah,
+Alex Grzebski: this
+Stephen Connell: perfect.
+Alex Grzebski: Then we'll just have to keep working on that rental page too. Let me get those products there. We're going to do another launch on rentals with Argo. Uh, I got an email this morning that um again we're going to start going after the Kaiser program again and trying to get that up and running this year once again because I got a bunch of product that I bought for this thing and it kind of fell off.
+Stephen Connell: Yeah.
+Alex Grzebski: I need
+ 
+ 
+00:54:50
+ 
+Stephen Connell: Did you send me I think you sent me the product the information for the rentals.
+Alex Grzebski: that.
+Stephen Connell: I need to find that.
+Alex Grzebski: If it didn't, I can upload it to or I can send this to you.
+Stephen Connell: Let me I'll I'll look for it after I call and then I'll let you know if I can't find it.
+Alex Grzebski: Okay. All right. That sounds
+Stephen Connell: Um,
+Alex Grzebski: great.
+Stephen Connell: All right, perfect.
+Alex Grzebski: Cool. What else do we have today?
+Stephen Connell: Um, you know, I think those are the important things. Let me check my agenda notes. So, I have the schools landing page. We we took a quick look at that recently. Um, see I think this is all done. Yeah, and I've got these types of accessibility contractors, but the page exploded. I tried to publish it while we were on the call and it exploded. So, the stylesheet didn't isn't loading right. So, it doesn't look good at all.
+ 
+ 
+00:56:42
+ 
+Stephen Connell: So, I'll have to get back to you on that one.
+Alex Grzebski: No worries.
+Stephen Connell: But,
+Alex Grzebski: Okay.
+Stephen Connell: that's based basically a landing page that's based on that graphic that you sent me with the types of of
+Alex Grzebski: Right.
+Stephen Connell: contractors. And then do you have what are you thinking about timeline for the site? Like should we Yeah.
+Alex Grzebski: I was going to ask I was just going to ask you that.
+Stephen Connell: So what do we need to do to to make it live? Because we're I think we could I mean if we if we we've kind of gone I've gone in some different directions um with these landing pages,
+Alex Grzebski: Mhm.
+Stephen Connell: but we've got a lot of this you know the product section is coming together pretty well.
+Alex Grzebski: Agreed.
+Stephen Connell: Um,
+Alex Grzebski: So, probably the rentals would be the next thing. Um,
+Stephen Connell: okay.
+Alex Grzebski: these commercial ramps, the ones that you just talked about or showed me. Um,
+Stephen Connell: Okay.
+Alex Grzebski: I mean, and then, you know, from there, I mean, we could update it going forward, right?
+ 
+ 
+00:57:51
+ 
+Stephen Connell: Yeah, exactly. Yeah,
+Alex Grzebski: I mean,
+Stephen Connell: we just need to polish it off a little bit and and then we can continue to work on it after it's
+Alex Grzebski: Yeah,
+Stephen Connell: live. But I think it's it's significantly better than what we have now. Um so if we get just polish a few things um and then
+Alex Grzebski: 100%. Mhm.
+Stephen Connell: it it then it will be significantly better and I think we can make it live.
+Alex Grzebski: So, if we do,
+Stephen Connell: Let's see.
+Alex Grzebski: let's see. We talked about the tubs. We talked about the ramps. We talked about the door openers. We talked about the mattresses. Moving that up. I mean, yeah, I think we're really just we're ready pretty much I don't know next
+Stephen Connell: Okay.
+Alex Grzebski: week.
+Stephen Connell: Yeah, let's let's focus on um I'll I'll have us focus on tidying everything up so that we could be in a like let's go live, you know, like a re a review a review for go live next week.
+ 
+ 
+00:58:57
+ 
+Stephen Connell: And then um and then we can we'll have a list of like what we can what you know future projects that we could add to it. Mhm. Uhoh. I might have may have lost you.
+Alex: Okay, I'm realizing what I'm doing. So,
+Stephen Connell: Yeah.
+Alex: when I mess around with the Google Drive and things like that and like say if I sign out of that,
+Stephen Connell: Oh, yep.
+Alex: it automatically signs me out of all Google things.
+Stephen Connell: Ah, gotcha. It kicked you
+Alex: Um anyways,
+Stephen Connell: out.
+Alex: we go live and then you know meet for a couple more weeks on updates and then you know if you feel good and I feel good whatever then we just
+Stephen Connell: Yeah.
+Alex: kind of go forward and and um make changes because what's going to happen of course is after that I'm going to be in it and be like oh shoot we need to add this or do
+Stephen Connell: Yeah.
+Alex: that but you know I don't think that should be inhibiting us from going live on
+Stephen Connell: Yep. I think that sounds great. All right, enjoy the drive. Oh, man. Uh, my parents, my sister up there, so say hello. Wave out the window for me. Cool.
+ 
+ 
+Transcription ended after 01:01:03
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.
