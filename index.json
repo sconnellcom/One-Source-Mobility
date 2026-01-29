@@ -14,5 +14,10 @@
   {
     "wp_slug": "/va-housing-grants",
     "source_path": "/va-housing-grants.html"
+  },
+  {
+    "wp_slug": "/va-benefits",
+    "source_path": "/va-benefits.json",
+    "beaver_builder_json": "/va-benefits.json"
   }
 ]
