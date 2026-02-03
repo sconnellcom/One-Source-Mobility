@@ -38,7 +38,9 @@ body {
     padding: 0 20px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     line-height: 1.2 !important;
     margin-bottom: 1rem !important;
 }
@@ -49,9 +51,9 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem !important;
-    font-weight: 700 !important;
-    color: var(--text-dark) !important;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-dark);
 }
 
 h3 {
@@ -94,7 +96,7 @@ p {
 
 .btn-secondary {
     background-color: transparent;
-    color: var(--primary-color);
+    color: white;
     border-color: var(--primary-color);
 }
 
@@ -526,47 +528,47 @@ p {
     .hero-headline {
         font-size: 2rem !important;
     }
-    
+
     .hero-subheadline {
         font-size: 1.125rem !important;
     }
-    
+
     h2 {
         font-size: 1.75rem !important;
     }
-    
+
     .cta-buttons {
         flex-direction: column;
     }
-    
+
     .btn {
         width: 100%;
         max-width: 300px;
     }
-    
+
     .trust-elements {
         flex-direction: column;
         align-items: flex-start;
         text-align: left;
     }
-    
+
     .benefits-grid,
     .serve-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .process-steps {
         grid-template-columns: 1fr;
     }
-    
+
     .form-row {
         grid-template-columns: 1fr;
     }
-    
+
     .contact-form {
         padding: 2rem 1.5rem;
     }
-    
+
     .choose-grid {
         grid-template-columns: 1fr;
     }
@@ -576,15 +578,15 @@ p {
     .hero {
         padding: 60px 0;
     }
-    
+
     .hero-headline {
         font-size: 1.75rem !important;
     }
-    
+
     .section-intro {
         font-size: 1rem !important;
     }
-    
+
     .why-compliant,
     .pathway-features,
     .who-we-serve,
@@ -613,13 +615,134 @@ textarea:focus {
 
 /* Print Styles */
 @media print {
+
     .hero,
     .cta-footer {
         background: white !important;
         color: black !important;
     }
-    
+
     .btn {
         border: 2px solid black !important;
     }
+}
+
+/* Page-specific overrides for VA Housing Grants */
+.va-housing-grants .hero-image-section {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.va-housing-grants .hero-image-section img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.va-housing-grants .hero-image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.va-housing-grants h2.hero-image-text {
+    color: #ffffff;
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 0 20px;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.9);
+    max-width: 1200px;
+    line-height: 1.2;
+}
+
+/* Lighter Learn About Grants button on this page */
+.va-housing-grants .btn-secondary {
+    background-color: #5a9fd4;
+    border-color: #5a9fd4;
+    color: white;
+}
+
+.va-housing-grants .btn-secondary:hover {
+    background-color: #4a8fc4;
+    border-color: #4a8fc4;
+}
+
+.va-housing-grants .cta-footer h2 {
+    color: #ffffff;
+}
+
+@media (max-width: 768px) {
+    .va-housing-grants .hero-image-section {
+        height: 400px;
+    }
+
+    .va-housing-grants .hero-image-text {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .va-housing-grants .hero-image-section {
+        height: 300px;
+    }
+
+    .va-housing-grants .hero-image-text {
+        font-size: 1.5rem;
+    }
+}
+
+/* Small layout helpers for pages */
+.contact {
+    padding: 60px 0;
+    background-color: var(--bg-white);
+}
+
+.contact-info {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.contact-item {
+    flex: 1 1 220px;
+    background: var(--bg-light);
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.contact-item h3 {
+    margin-bottom: 0.5rem;
+}
+
+.contact-item a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.faq-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.faq-item {
+    background: var(--bg-white);
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
 }
