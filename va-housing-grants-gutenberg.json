@@ -5,20 +5,31 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "hero-section"
+        "className": "hero-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "80px",
+              "bottom": "80px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 1,
-            "content": "VA Housing Grants: Full Independence at Home"
+            "content": "VA Housing Grants: Full Independence at Home",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/paragraph",
           "attrs": {
-            "content": "Veterans deserve homes that honor their service with full independence. One Source Mobility partners with VA programs to deliver certified, seamless accessibility modifications using grants like HISA, SAH, and SHA."
+            "content": "Veterans deserve homes that honor their service with full independence. One Source Mobility partners with VA programs to deliver certified, seamless accessibility modifications using grants like HISA, SAH, and SHA.",
+            "align": "center"
           }
         },
         {
@@ -33,7 +44,8 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "hero-image-section"
+        "className": "hero-image-section",
+        "align": "full"
       },
       "innerBlocks": [
         {
@@ -41,7 +53,8 @@
           "attrs": {
             "url": "https://github.com/user-attachments/assets/94b282cb-daf3-4cdb-a1f3-5e33a914a9b7",
             "alt": "Veteran at accessible home with wheelchair ramp",
-            "caption": "Grants Unlock Your Accessible Home - We Handle the Rest."
+            "caption": "Grants Unlock Your Accessible Home - We Handle the Rest.",
+            "align": "center"
           }
         }
       ]
@@ -49,26 +62,41 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "va-grants-section"
+        "className": "va-grants-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Essential VA Housing Grants"
+            "content": "Essential VA Housing Grants",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/paragraph",
           "attrs": {
-            "content": "Access funding tailored for service-connected disabilities—up to lifetime maximums for ramps, lifts, bathroom remodels, and more."
+            "content": "Access funding tailored for service-connected disabilities—up to lifetime maximums for ramps, lifts, bathroom remodels, and more.",
+            "align": "center"
           }
         },
         {
           "blockName": "core/group",
           "attrs": {
-            "className": "grant-cards"
+            "className": "grant-cards",
+            "layout": {
+              "type": "grid",
+              "columnCount": 3
+            }
           },
           "innerBlocks": [
             {
@@ -159,14 +187,133 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "why-choose-section"
+        "className": "certifications-section",
+        "align": "full",
+        "style": {
+          "color": {
+            "background": "#f8f9fa"
+          },
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Why One Source Mobility?"
+            "content": "Certified Accessibility Professionals for Veterans",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Our team holds the highest industry certifications to ensure your VA-funded home modifications are installed safely, correctly, and to code—honoring your service with professional expertise.",
+            "align": "center"
+          }
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "className": "benefits-grid",
+            "layout": {
+              "type": "grid",
+              "columnCount": 3
+            }
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Assistive Technology Professional (ATP)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Certified expertise in mobility equipment assessment and implementation for veterans with service-connected disabilities."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Executive Certificate in Home Modification (ECHM)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Advanced training in comprehensive home modifications to maximize independence and safety for veterans at home."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Certified Aging-in-Place Specialist (CAPS)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Specialized design and installation expertise for creating accessible living spaces that adapt to changing needs."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "why-choose-section",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Why Veterans Choose One Source Mobility",
+            "textAlign": "center"
           }
         },
         {
@@ -181,14 +328,27 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "modifications-section"
+        "className": "modifications-section",
+        "align": "full",
+        "style": {
+          "color": {
+            "background": "#f8f9fa"
+          },
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Common Modifications We Provide"
+            "content": "Common Modifications We Provide",
+            "textAlign": "center"
           }
         },
         {
@@ -203,20 +363,31 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "cta-section"
+        "className": "cta-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Get Your Free Assessment"
+            "content": "Ready to Claim Your VA Grant?",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/paragraph",
           "attrs": {
-            "content": "Ready to make your home fully accessible using your VA benefits? Contact One Source Mobility today for a free assessment and learn how we can help you maximize your VA housing grants."
+            "content": "Contact us for a free assessment and let us guide you through the VA grant process. We're here to help you achieve full independence at home.",
+            "align": "center"
           }
         }
       ]

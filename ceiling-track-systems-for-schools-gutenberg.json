@@ -5,20 +5,31 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "hero-section"
+        "className": "hero-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "80px",
+              "bottom": "80px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 1,
-            "content": "Safe, Compliant Ceiling Track Systems for Schools"
+            "content": "Safe, Compliant Ceiling Track Systems for Schools",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/paragraph",
           "attrs": {
-            "content": "Expert installation of overhead track systems that enable safe transfers, reduce injury risk, and keep classrooms and gyms fully functional"
+            "content": "Expert installation of overhead track systems that enable safe transfers, reduce injury risk, and keep classrooms and gyms fully functional",
+            "align": "center"
           }
         }
       ]
@@ -26,14 +37,24 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "why-ceiling-track-section"
+        "className": "why-ceiling-track-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Why Ceiling Track Systems for Schools"
+            "content": "Why Ceiling Track Systems for Schools",
+            "textAlign": "center"
           }
         },
         {
@@ -48,20 +69,34 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "certifications-section"
+        "className": "certifications-section",
+        "align": "full",
+        "style": {
+          "color": {
+            "background": "#f8f9fa"
+          },
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Expert Certifications You Can Trust"
+            "content": "Expert Certifications You Can Trust",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/paragraph",
           "attrs": {
-            "content": "Our team holds industry-leading certifications in accessibility, home modification, and assistive technology—ensuring safe, compliant installations for your school."
+            "content": "Our team holds industry-leading certifications in accessibility, home modification, and assistive technology—ensuring safe, compliant installations for your school.",
+            "align": "center"
           }
         },
         {
@@ -76,20 +111,33 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "services-section"
+        "className": "services-section",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Our Services"
+            "content": "Our Services",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/group",
           "attrs": {
-            "className": "service-items"
+            "className": "service-items",
+            "layout": {
+              "type": "grid",
+              "columnCount": 3
+            }
           },
           "innerBlocks": [
             {
@@ -183,20 +231,31 @@
     {
       "blockName": "core/group",
       "attrs": {
-        "className": "cta-section"
+        "className": "cta-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
       },
       "innerBlocks": [
         {
           "blockName": "core/heading",
           "attrs": {
             "level": 2,
-            "content": "Get a Free On-Site Assessment"
+            "content": "Get a Free On-Site Assessment",
+            "textAlign": "center"
           }
         },
         {
           "blockName": "core/paragraph",
           "attrs": {
-            "content": "Contact us today to schedule a free on-site assessment for your school's ceiling track system needs."
+            "content": "Contact us today to schedule a free on-site assessment for your school's ceiling track system needs.",
+            "align": "center"
           }
         }
       ]
