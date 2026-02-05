@@ -3,143 +3,223 @@
   "status": "publish",
   "blocks": [
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 1,
-        "content": "VA Housing Grants: Full Independence at Home"
-      }
+        "className": "hero-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 1,
+            "content": "VA Housing Grants: Full Independence at Home"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Veterans deserve homes that honor their service with full independence. One Source Mobility partners with VA programs to deliver certified, seamless accessibility modifications using grants like HISA, SAH, and SHA."
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li>B-General Contractor #1032291</li><li>Certified: ATP, CAPS, ECHM, CLIPP & C.E.A.C.</li><li>30+ Years Experience</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/paragraph",
+      "blockName": "core/group",
       "attrs": {
-        "content": "Veterans deserve homes that honor their service with full independence. One Source Mobility partners with VA programs to deliver certified, seamless accessibility modifications using grants like HISA, SAH, and SHA."
-      }
+        "className": "hero-image-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/image",
+          "attrs": {
+            "url": "https://github.com/user-attachments/assets/94b282cb-daf3-4cdb-a1f3-5e33a914a9b7",
+            "alt": "Veteran at accessible home with wheelchair ramp",
+            "caption": "Grants Unlock Your Accessible Home - We Handle the Rest."
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/list",
+      "blockName": "core/group",
       "attrs": {
-        "ordered": false,
-        "values": "<li>B-General Contractor #1032291</li><li>Certified: ATP, CAPS, ECHM, CLIPP & C.E.A.C.</li><li>30+ Years Experience</li>"
-      }
+        "className": "va-grants-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Essential VA Housing Grants"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Access funding tailored for service-connected disabilities—up to lifetime maximums for ramps, lifts, bathroom remodels, and more."
+          }
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "className": "grant-cards"
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "grant-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "HISA Grant"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "<strong>Up to $6,800 lifetime</strong> (service-connected) or $2,000 for others. Covers medically justified modifications like grab bars, widened doors, and ramps."
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Home Improvements and Structural Alterations Grant for service-connected disabilities or 50%+ rating."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "grant-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "SAH Grant"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "<strong>Up to $121,812 (FY2026 est.)</strong> for severe disabilities (e.g., loss of limbs, blindness). Funds new builds, major adaptations, or mortgage reductions."
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Specially Adapted Housing Grant for veterans with qualifying severe service-connected disabilities."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "grant-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "SHA Grant"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "<strong>Up to $24,565 (FY2026 est.)</strong> for mobility disabilities. Covers adaptations to existing homes, including roll-in showers and widened doorways."
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Special Housing Adaptation Grant for veterans with service-connected disabilities affecting mobility."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "blockName": "core/image",
+      "blockName": "core/group",
       "attrs": {
-        "url": "https://github.com/user-attachments/assets/94b282cb-daf3-4cdb-a1f3-5e33a914a9b7",
-        "alt": "Veteran at accessible home with wheelchair ramp",
-        "caption": "Grants Unlock Your Accessible Home - We Handle the Rest."
-      }
+        "className": "why-choose-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Why One Source Mobility?"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li><strong>VA-Approved Experts:</strong> We work directly with VA programs and understand the grant process inside and out.</li><li><strong>Full-Service Support:</strong> From initial assessment to final inspection, we handle every step of your home modification project.</li><li><strong>Quality Installations:</strong> Our licensed, certified team ensures every modification meets or exceeds safety and accessibility standards.</li><li><strong>Veteran-Focused:</strong> We're committed to serving those who served, with dignity and respect throughout the entire process.</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 2,
-        "content": "Essential VA Housing Grants"
-      }
+        "className": "modifications-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Common Modifications We Provide"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li>Wheelchair ramps (permanent and modular)</li><li>Roll-in showers and accessible bathrooms</li><li>Widened doorways and hallways</li><li>Grab bars and safety rails</li><li>Stairlifts and vertical platform lifts</li><li>Accessible kitchen modifications</li><li>Smart home automation for accessibility</li><li>Ceiling track systems</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/paragraph",
+      "blockName": "core/group",
       "attrs": {
-        "content": "Access funding tailored for service-connected disabilities—up to lifetime maximums for ramps, lifts, bathroom remodels, and more."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "HISA Grant"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "<strong>Up to $6,800 lifetime</strong> (service-connected) or $2,000 for others. Covers medically justified modifications like grab bars, widened doors, and ramps."
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Home Improvements and Structural Alterations Grant for service-connected disabilities or 50%+ rating."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "SAH Grant"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "<strong>Up to $121,812 (FY2026 est.)</strong> for severe disabilities (e.g., loss of limbs, blindness). Funds new builds, major adaptations, or mortgage reductions."
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Specially Adapted Housing Grant for veterans with qualifying severe service-connected disabilities."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "SHA Grant"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "<strong>Up to $24,565 (FY2026 est.)</strong> for mobility disabilities. Covers adaptations to existing homes, including roll-in showers and widened doorways."
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Special Housing Adaptation Grant for veterans with service-connected disabilities affecting mobility."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Why One Source Mobility?"
-      }
-    },
-    {
-      "blockName": "core/list",
-      "attrs": {
-        "ordered": false,
-        "values": "<li><strong>VA-Approved Experts:</strong> We work directly with VA programs and understand the grant process inside and out.</li><li><strong>Full-Service Support:</strong> From initial assessment to final inspection, we handle every step of your home modification project.</li><li><strong>Quality Installations:</strong> Our licensed, certified team ensures every modification meets or exceeds safety and accessibility standards.</li><li><strong>Veteran-Focused:</strong> We're committed to serving those who served, with dignity and respect throughout the entire process.</li>"
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Common Modifications We Provide"
-      }
-    },
-    {
-      "blockName": "core/list",
-      "attrs": {
-        "ordered": false,
-        "values": "<li>Wheelchair ramps (permanent and modular)</li><li>Roll-in showers and accessible bathrooms</li><li>Widened doorways and hallways</li><li>Grab bars and safety rails</li><li>Stairlifts and vertical platform lifts</li><li>Accessible kitchen modifications</li><li>Smart home automation for accessibility</li><li>Ceiling track systems</li>"
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Get Your Free Assessment"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Ready to make your home fully accessible using your VA benefits? Contact One Source Mobility today for a free assessment and learn how we can help you maximize your VA housing grants."
-      }
+        "className": "cta-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Get Your Free Assessment"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Ready to make your home fully accessible using your VA benefits? Contact One Source Mobility today for a free assessment and learn how we can help you maximize your VA housing grants."
+          }
+        }
+      ]
     }
   ]
 }
