@@ -1,0 +1,98 @@
+{
+  "title": "Commercial ADA Ramps - Code-Compliant Modular Access Solutions",
+  "status": "publish",
+  "blocks": [
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 1,
+        "content": "Commercial ADA Ramps, Done Right"
+      }
+    },
+    {
+      "blockName": "core/paragraph",
+      "attrs": {
+        "content": "Code-compliant, modular access solutions for offices, schools, churches, healthcare, industrial facilities, portable buildings, and construction sites—professionally designed and installed."
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2,
+        "content": "Why Code-Compliant Ramps Matter"
+      }
+    },
+    {
+      "blockName": "core/paragraph",
+      "attrs": {
+        "content": "Businesses and property managers are under constant pressure to provide safe, accessible entry that meets ADA and local building codes. A purpose-built commercial ramp system helps reduce liability, improves user safety, and avoids costly rework or failed inspections."
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 3,
+        "content": "Meets ADA Requirements"
+      }
+    },
+    {
+      "blockName": "core/paragraph",
+      "attrs": {
+        "content": "Meets ADA slope, width, and landing requirements when properly configured."
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 3,
+        "content": "Code Compliance"
+      }
+    },
+    {
+      "blockName": "core/paragraph",
+      "attrs": {
+        "content": "Supports compliance with IBC, OSHA, and most local code guidelines."
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 3,
+        "content": "Commercial Durability"
+      }
+    },
+    {
+      "blockName": "core/paragraph",
+      "attrs": {
+        "content": "Designed for high-traffic, year-round use in commercial environments."
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2,
+        "content": "Key Features"
+      }
+    },
+    {
+      "blockName": "core/list",
+      "attrs": {
+        "ordered": false,
+        "values": "<li>ADA / IBC / OSHA Code-Compliant Systems</li><li>Professional Installation & Local Support</li><li>Configurable Modular Designs for Almost Any Site</li>"
+      }
+    },
+    {
+      "blockName": "core/heading",
+      "attrs": {
+        "level": 2,
+        "content": "Get Started"
+      }
+    },
+    {
+      "blockName": "core/paragraph",
+      "attrs": {
+        "content": "Contact us today for a free site assessment and fast quote for your commercial ramp needs."
+      }
+    }
+  ]
+}
