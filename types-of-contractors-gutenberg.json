@@ -3,110 +3,232 @@
   "status": "publish",
   "blocks": [
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 1,
-        "content": "One Team. One Source. Complete Accessibility Solutions."
-      }
+        "className": "hero-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "80px",
+              "bottom": "80px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 1,
+            "content": "One Team. One Source. Complete Accessibility Solutions.",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "When it comes to making your home accessible, experience matters. With over 30 years of combined expertise in mobility and home modification, our team of licensed professionals delivers custom solutions that help you or your loved ones stay safe, comfortable, and independent — at home and in the community.",
+            "align": "center"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/paragraph",
+      "blockName": "core/group",
       "attrs": {
-        "content": "When it comes to making your home accessible, experience matters. With over 30 years of combined expertise in mobility and home modification, our team of licensed professionals delivers custom solutions that help you or your loved ones stay safe, comfortable, and independent — at home and in the community."
-      }
+        "className": "certifications-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Our Certifications"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li>Certified: ATP, CAPS, ECHM, CLIPP & C.E.A.C.</li><li>CA B-General Building Contractor #1032291</li><li>30+ Years Combined Experience</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 2,
-        "content": "Our Certifications"
-      }
+        "className": "why-specialized-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Why Specialized Accessibility Contractors Matter",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Not all contractors understand the complexities of accessibility. A standard remodeler may have excellent construction skills, but without training in mobility and assistive design, costly mistakes can happen — situations where installations are unsafe, ramps fail to meet code, or spaces don't truly serve your needs.",
+            "align": "center"
+          }
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "className": "contractor-types",
+            "layout": {
+              "type": "grid",
+              "columnCount": 3
+            }
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "contractor-type"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "General Contractors"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "General contractors are licensed professionals who can manage various home improvement projects. They may have experience with basic accessibility modifications but often lack specialized training in accessibility standards, adaptive equipment, and the unique needs of individuals with mobility challenges."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "contractor-type"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Handyman Services"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Handymen can handle small repairs and basic installations but typically lack the licensing, insurance, and specialized knowledge required for complex accessibility modifications. They may not be familiar with ADA guidelines, proper grab bar installation techniques, or the specific requirements of assistive equipment."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "contractor-type"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Specialized Accessibility Contractors"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Specialized accessibility contractors like One Source Mobility combine general contracting licenses with advanced certifications in accessibility and home modification. They understand not just how to install equipment, but why specific modifications are needed and how to ensure they meet both regulatory standards and individual needs."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "blockName": "core/list",
+      "blockName": "core/group",
       "attrs": {
-        "ordered": false,
-        "values": "<li>Certified: ATP, CAPS, ECHM, CLIPP & C.E.A.C.</li><li>CA B-General Building Contractor #1032291</li><li>30+ Years Combined Experience</li>"
-      }
+        "className": "specialized-expertise-section",
+        "align": "full",
+        "style": {
+          "color": {
+            "background": "#f8f9fa"
+          },
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Certified Expertise",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li><strong>ATP (Assistive Technology Professional):</strong> Specialized expertise in assistive technology assessment and implementation</li><li><strong>CAPS (Certified Aging-in-Place Specialist):</strong> Advanced training in designing spaces for aging in place</li><li><strong>ECHM (Executive Certificate in Home Modification):</strong> Comprehensive knowledge of home modifications and accessibility</li><li><strong>CLIPP (Certified Living In Place Professional):</strong> Expert in modifications for independent living</li><li><strong>C.E.A.C. (Certified Environmental Access Consultant):</strong> Specialized in environmental accessibility and ADA compliance</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 2,
-        "content": "Why Specialized Accessibility Contractors Matter"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Not all contractors are created equal when it comes to home accessibility modifications. While general contractors, handymen, and specialized accessibility experts may all offer home improvement services, the level of expertise, training, and understanding of accessibility needs varies significantly."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "General Contractors"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "General contractors are licensed professionals who can manage various home improvement projects. They may have experience with basic accessibility modifications but often lack specialized training in accessibility standards, adaptive equipment, and the unique needs of individuals with mobility challenges."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Handyman Services"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Handymen can handle small repairs and basic installations but typically lack the licensing, insurance, and specialized knowledge required for complex accessibility modifications. They may not be familiar with ADA guidelines, proper grab bar installation techniques, or the specific requirements of assistive equipment."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Specialized Accessibility Contractors"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Specialized accessibility contractors like One Source Mobility combine general contracting licenses with advanced certifications in accessibility and home modification. They understand not just how to install equipment, but why specific modifications are needed and how to ensure they meet both regulatory standards and individual needs."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Our Specialized Expertise"
-      }
-    },
-    {
-      "blockName": "core/list",
-      "attrs": {
-        "ordered": false,
-        "values": "<li><strong>ATP (Assistive Technology Professional):</strong> Specialized expertise in assistive technology assessment and implementation</li><li><strong>CAPS (Certified Aging-in-Place Specialist):</strong> Advanced training in designing spaces for aging in place</li><li><strong>ECHM (Executive Certificate in Home Modification):</strong> Comprehensive knowledge of home modifications and accessibility</li><li><strong>CLIPP (Certified Living In Place Professional):</strong> Expert in modifications for independent living</li><li><strong>C.E.A.C. (Certified Environmental Access Consultant):</strong> Specialized in environmental accessibility and ADA compliance</li>"
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Schedule Your Free Consultation"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Contact One Source Mobility today to learn how our specialized expertise can help create a safe, accessible home environment tailored to your specific needs."
-      }
+        "className": "cta-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Don't risk hiring a contractor who doesn't understand accessibility.",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Trust the certified experts who specialize in it. One Source Mobility — the team that does it all.",
+            "align": "center"
+          }
+        }
+      ]
     }
   ]
 }

@@ -3,123 +3,262 @@
   "status": "publish",
   "blocks": [
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 1,
-        "content": "Safe, Compliant Ceiling Track Systems for Schools"
-      }
+        "className": "hero-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "80px",
+              "bottom": "80px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 1,
+            "content": "Safe, Compliant Ceiling Track Systems for Schools",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Expert installation of overhead track systems that enable safe transfers, reduce injury risk, and keep classrooms and gyms fully functional",
+            "align": "center"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/paragraph",
+      "blockName": "core/group",
       "attrs": {
-        "content": "Expert installation of overhead track systems that enable safe transfers, reduce injury risk, and keep classrooms and gyms fully functional"
-      }
+        "className": "why-ceiling-track-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Why Ceiling Track Systems for Schools",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li><strong>Improve Safety:</strong> Enhance student and staff safety during transfers and rehabilitation activities with secure overhead support.</li><li><strong>Save Floor Space:</strong> Maximize classroom space by moving mobility solutions overhead, freeing up valuable floor area for other activities.</li><li><strong>Consistent Protocols:</strong> Enable consistent transfer protocols across classrooms, therapy rooms, and locker rooms.</li><li><strong>Meet Standards:</strong> Meet regulatory and safety standards with professional installation and documentation.</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 2,
-        "content": "Why Ceiling Track Systems for Schools"
-      }
+        "className": "certifications-section",
+        "align": "full",
+        "style": {
+          "color": {
+            "background": "#f8f9fa"
+          },
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Expert Certifications You Can Trust",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Our team holds industry-leading certifications in accessibility, home modification, and assistive technology—ensuring safe, compliant installations for your school.",
+            "align": "center"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li><strong>Assistive Technology Professional (ATP):</strong> Specialized expertise in assistive technology assessment and implementation for students with mobility needs.</li><li><strong>Executive Certificate in Home Modification (ECHM):</strong> Advanced training in environmental modifications and accessibility design for diverse environments.</li><li><strong>Certified Aging-in-Place Specialist (CAPS):</strong> Expertise in designing spaces that serve users of all ages and abilities safely and effectively.</li><li><strong>Certified Living In Place Professional (CLIPP):</strong> Comprehensive knowledge of modifications that enable long-term independence and safety.</li><li><strong>Certified Environmental Access Consultant (C.E.A.C.):</strong> Expert assessment and consultation on environmental accessibility and ADA compliance.</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/list",
+      "blockName": "core/group",
       "attrs": {
-        "ordered": false,
-        "values": "<li><strong>Improve Safety:</strong> Enhance student and staff safety during transfers and rehabilitation activities with secure overhead support.</li><li><strong>Save Floor Space:</strong> Maximize classroom space by moving mobility solutions overhead, freeing up valuable floor area for other activities.</li><li><strong>Consistent Protocols:</strong> Enable consistent transfer protocols across classrooms, therapy rooms, and locker rooms.</li><li><strong>Meet Standards:</strong> Meet regulatory and safety standards with professional installation and documentation.</li>"
-      }
+        "className": "services-section",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Our Services",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "className": "service-items",
+            "layout": {
+              "type": "grid",
+              "columnCount": 2
+            }
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "service-item"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "On-Site Assessment & Design"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Comprehensive evaluation of your facility with custom CAD-drawn layouts tailored to your school's specific needs and floor plan."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "service-item"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Professional Installation"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Expert installation by certified professionals with minimal disruption to your school's daily operations."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "service-item"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Compliance Documentation"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Complete documentation for regulatory compliance and safety records."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "service-item"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Staff Training"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Comprehensive training for staff on proper use and safety protocols."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 2,
-        "content": "Expert Certifications You Can Trust"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Our team holds industry-leading certifications in accessibility, home modification, and assistive technology—ensuring safe, compliant installations for your school."
-      }
-    },
-    {
-      "blockName": "core/list",
-      "attrs": {
-        "ordered": false,
-        "values": "<li><strong>Assistive Technology Professional (ATP):</strong> Specialized expertise in assistive technology assessment and implementation for students with mobility needs.</li><li><strong>Executive Certificate in Home Modification (ECHM):</strong> Advanced training in environmental modifications and accessibility design for diverse environments.</li><li><strong>Certified Aging-in-Place Specialist (CAPS):</strong> Expertise in designing spaces that serve users of all ages and abilities safely and effectively.</li><li><strong>Certified Living In Place Professional (CLIPP):</strong> Comprehensive knowledge of modifications that enable long-term independence and safety.</li><li><strong>Certified Environmental Access Consultant (C.E.A.C.):</strong> Expert assessment and consultation on environmental accessibility and ADA compliance.</li>"
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Our Services"
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "On-Site Assessment & Design"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Comprehensive evaluation of your facility with custom CAD-drawn layouts tailored to your school's specific needs and floor plan."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Professional Installation"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Expert installation by certified professionals with minimal disruption to your school's daily operations."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Compliance Documentation"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Complete documentation for regulatory compliance and safety records."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Staff Training"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Comprehensive training for staff on proper use and safety protocols."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Get a Free On-Site Assessment"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Contact us today to schedule a free on-site assessment for your school's ceiling track system needs."
-      }
+        "className": "cta-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Get a Free On-Site Assessment",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Contact us today to schedule a free on-site assessment for your school's ceiling track system needs.",
+            "align": "center"
+          }
+        }
+      ]
     }
   ]
 }

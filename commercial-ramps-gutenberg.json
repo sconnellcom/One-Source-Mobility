@@ -3,96 +3,316 @@
   "status": "publish",
   "blocks": [
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 1,
-        "content": "Commercial ADA Ramps, Done Right"
-      }
+        "className": "hero-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "80px",
+              "bottom": "80px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 1,
+            "content": "Commercial ADA Ramps, Done Right",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Code-compliant, modular access solutions for offices, schools, churches, healthcare, industrial facilities, portable buildings, and construction sites—professionally designed and installed.",
+            "align": "center"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/paragraph",
+      "blockName": "core/group",
       "attrs": {
-        "content": "Code-compliant, modular access solutions for offices, schools, churches, healthcare, industrial facilities, portable buildings, and construction sites—professionally designed and installed."
-      }
+        "className": "why-compliant-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Why Code-Compliant Ramps Matter",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Businesses and property managers are under constant pressure to provide safe, accessible entry that meets ADA and local building codes. A purpose-built commercial ramp system helps reduce liability, improves user safety, and avoids costly rework or failed inspections.",
+            "align": "center"
+          }
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "className": "benefits-grid",
+            "layout": {
+              "type": "grid",
+              "columnCount": 3
+            }
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Meets ADA Requirements"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Meets ADA slope, width, and landing requirements when properly configured."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Code Compliance"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Supports compliance with IBC, OSHA, and most local code guidelines."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Commercial Durability"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Designed for high-traffic, year-round use in commercial environments."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 2,
-        "content": "Why Code-Compliant Ramps Matter"
-      }
+        "className": "certifications-section",
+        "align": "full",
+        "style": {
+          "color": {
+            "background": "#f8f9fa"
+          },
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Certified Accessibility Professionals",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Our team maintains the highest industry certifications to ensure your commercial ramp installation meets all code requirements and accessibility standards.",
+            "align": "center"
+          }
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "className": "benefits-grid",
+            "layout": {
+              "type": "grid",
+              "columnCount": 3
+            }
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Assistive Technology Professional (ATP)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Certified expertise in mobility equipment and assistive technology solutions."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Executive Certificate in Home Modification (ECHM)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Advanced training in environmental modifications and accessible design."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/group",
+              "attrs": {
+                "className": "benefit-card"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Certified Aging-in-Place Specialist (CAPS)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Specialized knowledge in creating accessible spaces for all ages and abilities."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "blockName": "core/paragraph",
+      "blockName": "core/group",
       "attrs": {
-        "content": "Businesses and property managers are under constant pressure to provide safe, accessible entry that meets ADA and local building codes. A purpose-built commercial ramp system helps reduce liability, improves user safety, and avoids costly rework or failed inspections."
-      }
+        "className": "key-features-section",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "PATHWAY HD Modular Ramp Features",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li>ADA / IBC / OSHA Code-Compliant Systems</li><li>Professional Installation & Local Support</li><li>Configurable Modular Designs for Almost Any Site</li>"
+          }
+        }
+      ]
     },
     {
-      "blockName": "core/heading",
+      "blockName": "core/group",
       "attrs": {
-        "level": 3,
-        "content": "Meets ADA Requirements"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Meets ADA slope, width, and landing requirements when properly configured."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Code Compliance"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Supports compliance with IBC, OSHA, and most local code guidelines."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 3,
-        "content": "Commercial Durability"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Designed for high-traffic, year-round use in commercial environments."
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Key Features"
-      }
-    },
-    {
-      "blockName": "core/list",
-      "attrs": {
-        "ordered": false,
-        "values": "<li>ADA / IBC / OSHA Code-Compliant Systems</li><li>Professional Installation & Local Support</li><li>Configurable Modular Designs for Almost Any Site</li>"
-      }
-    },
-    {
-      "blockName": "core/heading",
-      "attrs": {
-        "level": 2,
-        "content": "Get Started"
-      }
-    },
-    {
-      "blockName": "core/paragraph",
-      "attrs": {
-        "content": "Contact us today for a free site assessment and fast quote for your commercial ramp needs."
-      }
+        "className": "cta-section",
+        "align": "full",
+        "style": {
+          "spacing": {
+            "padding": {
+              "top": "60px",
+              "bottom": "60px"
+            }
+          }
+        }
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Ready for a Code-Compliant Ramp?",
+            "textAlign": "center"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Share a few details about your building and access needs, and a commercial access specialist will follow up with a custom design and quote.",
+            "align": "center"
+          }
+        }
+      ]
     }
   ]
 }
