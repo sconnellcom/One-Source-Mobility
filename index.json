@@ -1,19 +1,23 @@
 [
   {
     "wp_slug": "/ceiling-track-systems-schools",
-    "source_path": "/ceiling-track-systems-for-schools.html"
+    "source_path": "/ceiling-track-systems-for-schools.html",
+    "gutenberg_json": "/ceiling-track-systems-for-schools-gutenberg.json"
   },
   {
     "wp_slug": "/commercial-ramps",
-    "source_path": "/commercial-ramps.html"
+    "source_path": "/commercial-ramps.html",
+    "gutenberg_json": "/commercial-ramps-gutenberg.json"
   },
   {
     "wp_slug": "/types-of-contractors",
-    "source_path": "/types-of-contractors.html"
+    "source_path": "/types-of-contractors.html",
+    "gutenberg_json": "/types-of-contractors-gutenberg.json"
   },
   {
     "wp_slug": "/va-housing-grants",
     "source_path": "/va-housing-grants.html",
-    "beaver_builder_json": "/va-housing-grants.json"
+    "beaver_builder_json": "/va-housing-grants.json",
+    "gutenberg_json": "/va-housing-grants-gutenberg.json"
   }
 ]
