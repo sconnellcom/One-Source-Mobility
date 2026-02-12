@@ -1,308 +1,824 @@
 {
-    "title": "VA Housing Grants for Veterans - Home Accessibility Modifications",
-    "status": "publish",
-    "blocks": [
+  "title": "VA Housing Grants for Veterans - Home Accessibility Modifications",
+  "status": "publish",
+  "blocks": [
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "hero-section"
+      },
+      "innerBlocks": [
         {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 1,
-                "content": "VA Housing Grants: Full Independence at Home"
-            }
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 1,
+            "content": "VA Housing Grants: Full Independence at Home"
+          }
         },
         {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Veterans deserve homes that honor their service with full independence. One Source Mobility partners with VA programs to deliver certified, seamless accessibility modifications using grants like HISA, SAH, and SHA."
-            }
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Veterans deserve homes that honor their service with full independence. One Source Mobility partners with VA programs to deliver certified, seamless accessibility modifications using grants like HISA, SAH, and SHA."
+          }
         },
         {
-            "blockName": "core/html",
-            "attrs": {
-                "content": "<div class=\"cta-buttons\"><a href=\"#contact-form\" class=\"btn btn-primary\">Get a Free Assessment</a><a href=\"#grants\" class=\"btn btn-secondary\">Learn About Grants</a></div>"
+          "blockName": "core/buttons",
+          "innerBlocks": [
+            {
+              "blockName": "core/button",
+              "attrs": {
+                "url": "#contact-form",
+                "text": "Get a Free Assessment"
+              }
+            },
+            {
+              "blockName": "core/button",
+              "attrs": {
+                "url": "#grants",
+                "text": "Learn About Grants"
+              }
             }
+          ]
         },
         {
-            "blockName": "core/list",
-            "attrs": {
-                "ordered": false,
-                "values": "<li>B-General Contractor #1032291</li><li>Certified: ATP, CAPS, ECHM, CLIPP &amp; C.E.A.C.</li><li>30+ Years Experience</li>"
-            }
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 3,
+            "content": "Trust Elements"
+          }
         },
         {
-            "blockName": "core/html",
-            "attrs": {
-                "content": "<section class=\"hero-image-section\"><img src=\"https://github.com/user-attachments/assets/94b282cb-daf3-4cdb-a1f3-5e33a914a9b7\" alt=\"Veteran at accessible home with wheelchair ramp\"><div class=\"hero-image-overlay\"><h2 class=\"hero-image-text\">Grants Unlock Your Accessible Home<br />We Handle the Rest.</h2></div></section>"
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "Essential VA Housing Grants"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Access funding tailored for service-connected disabilities—up to lifetime maximums for ramps, lifts, bathroom remodels, and more."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "HISA Grant"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "<strong>Up to $6,800 lifetime</strong> (service-connected) or $2,000 for others. Covers medically justified modifications like grab bars, widened doors, and ramps."
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Home Improvements and Structural Alterations Grant for service-connected disabilities or 50%+ rating."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "SAH Grant"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "<strong>Up to $121,812 (FY2026 est.)</strong> for severe disabilities (e.g., loss of limbs, blindness). Funds new builds, major adaptations, or mortgage reductions."
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Specially Adapted Housing Grant for veterans with qualifying severe service-connected disabilities."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "SHA Grant"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "<strong>Up to $25,350 (FY2026)</strong> for targeted changes like ramps or accessible kitchens. Ideal for existing homes."
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Special Housing Adaptation Grant for veterans needing modifications to their current residence."
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "<strong>Temporary Residence Adaptation (TRA)</strong> adds up to $50,961 (SAH-eligible) or $9,100 (SHA) for temporary living situations while you transition to permanent housing."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "Certified Accessibility Professionals for Veterans"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Our team holds the highest industry certifications to ensure your VA-funded home modifications are installed safely, correctly, and to code—honoring your service with professional expertise."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "Assistive Technology Professional (ATP)"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Certified expertise in mobility equipment assessment and implementation for veterans with service-connected disabilities."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "Executive Certificate in Home Modification (ECHM)"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Advanced training in comprehensive home modifications to maximize independence and safety for veterans at home."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "Certified Aging-in-Place Specialist (CAPS)"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Specialized design and installation expertise for creating accessible living spaces that adapt to changing needs."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "Certified Living In Place Professional (CLIPP)"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Comprehensive knowledge in modifications that enable veterans to live independently and safely in their own homes."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 3,
-                "content": "Certified Environmental Access Consultant (C.E.A.C.)"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Expert assessment and consultation on environmental accessibility standards and VA compliance requirements."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "Trusted Veteran Resources"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Connect with experts for guidance, applications (VA Form 26-4555), and support throughout your grant journey."
-            }
-        },
-        {
-            "blockName": "core/list",
-            "attrs": {
-                "ordered": false,
-                "values": "<li>Disabled American Veterans (DAV) — <a href=\"https://www.dav.org/\" target=\"_blank\" rel=\"noopener\">Visit DAV.org</a></li><li>Paralyzed Veterans of America (PVA) — <a href=\"https://www.pva.org/\" target=\"_blank\" rel=\"noopener\">Visit PVA.org</a></li><li>U.S. Department of Veterans Affairs — <a href=\"https://www.va.gov/\" target=\"_blank\" rel=\"noopener\">Visit VA.gov</a></li><li>HISA Grant Details — <a href=\"https://www.prosthetics.va.gov/psas/HISA2.asp\" target=\"_blank\" rel=\"noopener\">Visit Prosthetics.VA.gov</a></li><li>SAH/SHA Grant Information — <a href=\"https://www.va.gov/housing-assistance/disability-housing-grants/\" target=\"_blank\" rel=\"noopener\">Visit VA Housing Assistance</a></li>"
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "How to Choose the Right Accessibility Contractor"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Avoid pitfalls—select professionals experienced in VA grants and adaptive design. One Source Mobility (B-General Contractor #1032291, ATP/CAPS certified) handles everything from evaluations to installs."
-            }
-        },
-        {
-            "blockName": "core/html",
-            "attrs": {
-                "content": "<div class=\"comparison-table\"><table><thead><tr><th>Step</th><th>Key Actions</th><th>Pro Tip</th></tr></thead><tbody><tr><td><strong>1. Verify Credentials</strong></td><td>Licensed, insured, VA-savvy (CAPS/ATP); check references/reviews.</td><td>Ask for veteran project portfolios.</td></tr><tr><td><strong>2. Get Multiple Bids</strong></td><td>3+ itemized estimates matching grant scopes.</td><td>Ensure ADA/VA compliance.</td></tr><tr><td><strong>3. Assess Expertise</strong></td><td>Accessibility focus (not general remodels); OT collaboration.</td><td>Confirm ramp/lift training.</td></tr><tr><td><strong>4. Review Process</strong></td><td>Clear timelines, grant paperwork help.</td><td>Lifetime warranties on installs.</td></tr></tbody></table></div>"
-            }
-        },
-        {
-            "blockName": "core/image",
-            "attrs": {
-                "url": "https://github.com/user-attachments/assets/49c21ee9-e755-4775-acd8-aba60ffeaa2a",
-                "alt": "Before and after bathroom transformation with widened doorway, roll-in shower, and grab bars",
-                "caption": "<strong>Real Transformation:</strong> We transform inaccessible bathrooms into fully functional spaces with widened 36\" doorways, roll-in showers with grab bars, and lowered countertops. Our certified technicians handle every detail of your HISA/SHA grant-eligible modifications."
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "Partner with One Source Mobility"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "We serve Northern/Central California veterans with 30+ years of experience turning grants into reality—ramps, ceiling lifts, full remodels. Free assessments guide your journey."
-            }
-        },
-        {
-            "blockName": "core/image",
-            "attrs": {
-                "url": "https://github.com/user-attachments/assets/25d0b6c0-18b2-4dd3-88e5-edfd661eec87",
-                "alt": "Confident veteran in wheelchair using EZ Access residential modular ramp",
-                "caption": "We help veterans confidently access their homes with professionally installed EZ Access modular ramps, ensuring safe and independent entry every day."
-            }
-        },
-        {
-            "blockName": "core/list",
-            "attrs": {
-                "ordered": true,
-                "values": "<li><strong>Free Assessment:</strong> Comprehensive home evaluation and grant eligibility review to identify the best modifications for your needs.</li><li><strong>Grant Application Support:</strong> Expert guidance through VA Form 26-4555 and documentation requirements to maximize your grant approval.</li><li><strong>Professional Installation:</strong> Certified, code-compliant installation by ATP/CAPS trained specialists with lifetime warranties.</li><li><strong>Ongoing Support:</strong> Maintenance, adjustments, and support to ensure your modifications continue to serve you well.</li>"
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "Why Veterans Choose One Source Mobility"
-            }
-        },
-        {
-            "blockName": "core/list",
-            "attrs": {
-                "ordered": false,
-                "values": "<li>B-General Contractor #1032291 with full licensing and insurance for VA grant work.</li><li>30+ years of experience working with HISA, SAH, and SHA grants for Northern/Central CA veterans.</li><li>ATP/CAPS certified specialists who understand adaptive design and ADA/VA compliance requirements.</li><li>Comprehensive services from ramps and lifts to full bathroom and home remodels with lifetime warranties.</li>"
-            }
-        },
-        {
-            "blockName": "core/heading",
-            "attrs": {
-                "level": 2,
-                "content": "Ready to Claim Your VA Grant?"
-            }
-        },
-        {
-            "blockName": "core/paragraph",
-            "attrs": {
-                "content": "Contact us for a free assessment and let us guide you through the VA grant process. We're here to help you achieve full independence at home."
-            }
-        },
-        {
-            "blockName": "core/image",
-            "attrs": {
-                "url": "https://github.com/user-attachments/assets/ad3dac0e-4d47-41dd-a6a8-ebccd02cc7d1",
-                "alt": "Veteran family in accessible kitchen with ceiling track lift",
-                "caption": "We create full independence for the whole family with comprehensive SAH-scale installations including lowered counters, accessible kitchens, and ceiling track lifts. Serving Northern/Central California veterans with complete home accessibility solutions."
-            }
-        },
-        {
-            "blockName": "core/html",
-            "attrs": {
-                "content": "<form class=\"contact-form\" id=\"contact-form\" action=\"#\" method=\"post\"><div class=\"form-row\"><div class=\"form-group\"><label for=\"name\">Name *</label><input type=\"text\" id=\"name\" name=\"name\" required></div><div class=\"form-group\"><label for=\"phone\">Phone *</label><input type=\"tel\" id=\"phone\" name=\"phone\" required></div></div><div class=\"form-row\"><div class=\"form-group\"><label for=\"email\">Email *</label><input type=\"email\" id=\"email\" name=\"email\" required></div><div class=\"form-group\"><label for=\"service-branch\">Branch of Service</label><select id=\"service-branch\" name=\"service-branch\"><option value=\"\">Select branch</option><option value=\"army\">Army</option><option value=\"navy\">Navy</option><option value=\"air-force\">Air Force</option><option value=\"marines\">Marines</option><option value=\"coast-guard\">Coast Guard</option><option value=\"space-force\">Space Force</option></select></div></div><div class=\"form-group\"><label for=\"address\">Home Address *</label><input type=\"text\" id=\"address\" name=\"address\" required></div><div class=\"form-group\"><label for=\"grant-type\">Which Grant Are You Interested In? *</label><select id=\"grant-type\" name=\"grant-type\" required><option value=\"\">Select a grant type</option><option value=\"hisa\">HISA (Home Improvements and Structural Alterations)</option><option value=\"sah\">SAH (Specially Adapted Housing)</option><option value=\"sha\">SHA (Special Housing Adaptation)</option><option value=\"tra\">TRA (Temporary Residence Adaptation)</option><option value=\"not-sure\">Not Sure / Need Guidance</option></select></div><div class=\"form-group\"><label for=\"modifications\">What Modifications Are You Considering?</label><textarea id=\"modifications\" name=\"modifications\" rows=\"4\" placeholder=\"e.g., wheelchair ramp, bathroom remodel, ceiling lift, widened doorways...\"></textarea></div><button type=\"submit\" class=\"btn btn-primary btn-large\">Get My Free Assessment</button></form>"
-            }
+          "blockName": "core/list",
+          "attrs": {
+            "ordered": false,
+            "values": "<li>B-General Contractor #1032291</li><li>Certified: ATP, CAPS, ECHM, CLIPP &amp; C.E.A.C.</li><li>30+ Years Experience</li>"
+          }
         }
-    ]
+      ]
+    },
+    {
+      "blockName": "core/cover",
+      "attrs": {
+        "url": "https://github.com/user-attachments/assets/94b282cb-daf3-4cdb-a1f3-5e33a914a9b7",
+        "alt": "Veteran at accessible home with wheelchair ramp",
+        "dimRatio": 50,
+        "minHeight": 400
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Grants Unlock Your Accessible Home<br />We Handle the Rest."
+          }
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "grants-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Essential VA Housing Grants"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Access funding tailored for service-connected disabilities—up to lifetime maximums for ramps, lifts, bathroom remodels, and more."
+          }
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "HISA Grant"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "<strong>Up to $6,800 lifetime</strong> (service-connected) or $2,000 for others. Covers medically justified modifications like grab bars, widened doors, and ramps."
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "<em>Home Improvements and Structural Alterations Grant for service-connected disabilities or 50%+ rating.</em>"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "SAH Grant"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "<strong>Up to $121,812 (FY2026 est.)</strong> for severe disabilities (e.g., loss of limbs, blindness). Funds new builds, major adaptations, or mortgage reductions."
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "<em>Specially Adapted Housing Grant for veterans with qualifying severe service-connected disabilities.</em>"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "SHA Grant"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "<strong>Up to $25,350 (FY2026)</strong> for targeted changes like ramps or accessible kitchens. Ideal for existing homes."
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "<em>Special Housing Adaptation Grant for veterans needing modifications to their current residence.</em>"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/group",
+          "attrs": {
+            "backgroundColor": "pale-pink",
+            "className": "expert-install-note"
+          },
+          "innerBlocks": [
+            {
+              "blockName": "core/paragraph",
+              "attrs": {
+                "content": "<strong>Temporary Residence Adaptation (TRA)</strong> adds up to $50,961 (SAH-eligible) or $9,100 (SHA) for temporary living situations while you transition to permanent housing."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "backgroundColor": "pale-pink",
+        "className": "certifications-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Certified Accessibility Professionals for Veterans"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Our team holds the highest industry certifications to ensure your VA-funded home modifications are installed safely, correctly, and to code—honoring your service with professional expertise."
+          }
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "Assistive Technology Professional (ATP)"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Certified expertise in mobility equipment assessment and implementation for veterans with service-connected disabilities."
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "Executive Certificate in Home Modification (ECHM)"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Advanced training in comprehensive home modifications to maximize independence and safety for veterans at home."
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "Certified Aging-in-Place Specialist (CAPS)"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Specialized design and installation expertise for creating accessible living spaces that adapt to changing needs."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "attrs": {
+                "width": "50%"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "Certified Living In Place Professional (CLIPP)"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Comprehensive knowledge in modifications that enable veterans to live independently and safely in their own homes."
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "attrs": {
+                "width": "50%"
+              },
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "benefit-card"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 3,
+                        "content": "Certified Environmental Access Consultant (C.E.A.C.)"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Expert assessment and consultation on environmental accessibility standards and VA compliance requirements."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "resources-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Trusted Veteran Resources"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Connect with experts for guidance, applications (VA Form 26-4555), and support throughout your grant journey."
+          }
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Disabled American Veterans (DAV)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Expert advocacy and assistance for veterans navigating VA benefits and disability claims. <a href=\"https://www.dav.org/\" target=\"_blank\" rel=\"noopener\">Visit DAV.org</a>"
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "Paralyzed Veterans of America (PVA)"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Specialized support for veterans with spinal cord injuries and diseases. <a href=\"https://www.pva.org/\" target=\"_blank\" rel=\"noopener\">Visit PVA.org</a>"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "U.S. Department of Veterans Affairs"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Official VA resources for all housing grants and applications. <a href=\"https://www.va.gov/\" target=\"_blank\" rel=\"noopener\">Visit VA.gov</a>"
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/heading",
+                  "attrs": {
+                    "level": 3,
+                    "content": "HISA Grant Details"
+                  }
+                },
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "Comprehensive information about the HISA program. <a href=\"https://www.prosthetics.va.gov/psas/HISA2.asp\" target=\"_blank\" rel=\"noopener\">Visit Prosthetics.VA.gov</a>"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/group",
+          "innerBlocks": [
+            {
+              "blockName": "core/heading",
+              "attrs": {
+                "level": 3,
+                "content": "SAH/SHA Grant Information"
+              }
+            },
+            {
+              "blockName": "core/paragraph",
+              "attrs": {
+                "content": "Learn about Specially Adapted Housing and Special Housing Adaptation grants. <a href=\"https://www.va.gov/housing-assistance/disability-housing-grants/\" target=\"_blank\" rel=\"noopener\">Visit VA Housing Assistance</a>"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "contractor-selection-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "How to Choose the Right Accessibility Contractor"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Avoid pitfalls—select professionals experienced in VA grants and adaptive design. One Source Mobility (B-General Contractor #1032291, ATP/CAPS certified) handles everything from evaluations to installs."
+          }
+        },
+        {
+          "blockName": "core/html",
+          "attrs": {
+            "content": "<table style=\"width: 100%; border-collapse: collapse; background-color: white; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden;\"><thead><tr style=\"background-color: #0066cc; color: white;\"><th style=\"padding: 1rem; text-align: left; font-weight: 600;\">Step</th><th style=\"padding: 1rem; text-align: left; font-weight: 600;\">Key Actions</th><th style=\"padding: 1rem; text-align: left; font-weight: 600;\">Pro Tip</th></tr></thead><tbody><tr style=\"border-bottom: 1px solid #dee2e6;\"><td style=\"padding: 1rem; vertical-align: top;\"><strong>1. Verify Credentials</strong></td><td style=\"padding: 1rem; vertical-align: top;\">Licensed, insured, VA-savvy (CAPS/ATP); check references/reviews.</td><td style=\"padding: 1rem; vertical-align: top;\">Ask for veteran project portfolios.</td></tr><tr style=\"border-bottom: 1px solid #dee2e6; background-color: #f8f9fa;\"><td style=\"padding: 1rem; vertical-align: top;\"><strong>2. Get Multiple Bids</strong></td><td style=\"padding: 1rem; vertical-align: top;\">3+ itemized estimates matching grant scopes.</td><td style=\"padding: 1rem; vertical-align: top;\">Ensure ADA/VA compliance.</td></tr><tr style=\"border-bottom: 1px solid #dee2e6;\"><td style=\"padding: 1rem; vertical-align: top;\"><strong>3. Assess Expertise</strong></td><td style=\"padding: 1rem; vertical-align: top;\">Accessibility focus (not general remodels); OT collaboration.</td><td style=\"padding: 1rem; vertical-align: top;\">Confirm ramp/lift training.</td></tr><tr style=\"background-color: #f8f9fa;\"><td style=\"padding: 1rem; vertical-align: top;\"><strong>4. Review Process</strong></td><td style=\"padding: 1rem; vertical-align: top;\">Clear timelines, grant paperwork help.</td><td style=\"padding: 1rem; vertical-align: top;\">Lifetime warranties on installs.</td></tr></tbody></table>"
+          }
+        },
+        {
+          "blockName": "core/spacer",
+          "attrs": {
+            "height": 50
+          }
+        },
+        {
+          "blockName": "core/image",
+          "attrs": {
+            "url": "https://github.com/user-attachments/assets/49c21ee9-e755-4775-acd8-aba60ffeaa2a",
+            "alt": "Before and after bathroom transformation with widened doorway, roll-in shower, and grab bars",
+            "caption": "<strong>Real Transformation:</strong> We transform inaccessible bathrooms into fully functional spaces with widened 36\" doorways, roll-in showers with grab bars, and lowered countertops. Our certified technicians handle every detail of your HISA/SHA grant-eligible modifications."
+          }
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "partner-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Partner with One Source Mobility"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "We serve Northern/Central California veterans with 30+ years of experience turning grants into reality—ramps, ceiling lifts, full remodels. Free assessments guide your journey."
+          }
+        },
+        {
+          "blockName": "core/spacer",
+          "attrs": {
+            "height": 30
+          }
+        },
+        {
+          "blockName": "core/image",
+          "attrs": {
+            "url": "https://github.com/user-attachments/assets/25d0b6c0-18b2-4dd3-88e5-edfd661eec87",
+            "alt": "Confident veteran in wheelchair using EZ Access residential modular ramp",
+            "caption": "We help veterans confidently access their homes with professionally installed EZ Access modular ramps, ensuring safe and independent entry every day."
+          }
+        },
+        {
+          "blockName": "core/spacer",
+          "attrs": {
+            "height": 30
+          }
+        },
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 3,
+            "content": "Our Process"
+          }
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "process-step"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 4,
+                        "content": "1. Free Assessment"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Comprehensive home evaluation and grant eligibility review to identify the best modifications for your needs."
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "process-step"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 4,
+                        "content": "2. Grant Application Support"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Expert guidance through VA Form 26-4555 and documentation requirements to maximize your grant approval."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "process-step"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 4,
+                        "content": "3. Professional Installation"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Certified, code-compliant installation by ATP/CAPS trained specialists with lifetime warranties."
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/group",
+                  "attrs": {
+                    "className": "process-step"
+                  },
+                  "innerBlocks": [
+                    {
+                      "blockName": "core/heading",
+                      "attrs": {
+                        "level": 4,
+                        "content": "4. Ongoing Support"
+                      }
+                    },
+                    {
+                      "blockName": "core/paragraph",
+                      "attrs": {
+                        "content": "Maintenance, adjustments, and support to ensure your modifications continue to serve you well."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "className": "why-choose-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Why Veterans Choose One Source Mobility"
+          }
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "✓ B-General Contractor #1032291 with full licensing and insurance for VA grant work."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "✓ 30+ years of experience working with HISA, SAH, and SHA grants for Northern/Central CA veterans."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "blockName": "core/columns",
+          "innerBlocks": [
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "✓ ATP/CAPS certified specialists who understand adaptive design and ADA/VA compliance requirements."
+                  }
+                }
+              ]
+            },
+            {
+              "blockName": "core/column",
+              "innerBlocks": [
+                {
+                  "blockName": "core/paragraph",
+                  "attrs": {
+                    "content": "✓ Comprehensive services from ramps and lifts to full bathroom and home remodels with lifetime warranties."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockName": "core/group",
+      "attrs": {
+        "backgroundColor": "pale-pink",
+        "className": "cta-section"
+      },
+      "innerBlocks": [
+        {
+          "blockName": "core/heading",
+          "attrs": {
+            "level": 2,
+            "content": "Ready to Claim Your VA Grant?"
+          }
+        },
+        {
+          "blockName": "core/paragraph",
+          "attrs": {
+            "content": "Contact us for a free assessment and let us guide you through the VA grant process. We're here to help you achieve full independence at home."
+          }
+        },
+        {
+          "blockName": "core/spacer",
+          "attrs": {
+            "height": 30
+          }
+        },
+        {
+          "blockName": "core/image",
+          "attrs": {
+            "url": "https://github.com/user-attachments/assets/ad3dac0e-4d47-41dd-a6a8-ebccd02cc7d1",
+            "alt": "Veteran family in accessible kitchen with ceiling track lift",
+            "caption": "We create full independence for the whole family with comprehensive SAH-scale installations including lowered counters, accessible kitchens, and ceiling track lifts. Serving Northern/Central California veterans with complete home accessibility solutions."
+          }
+        },
+        {
+          "blockName": "core/spacer",
+          "attrs": {
+            "height": 30
+          }
+        },
+        {
+          "blockName": "core/html",
+          "attrs": {
+            "content": "<form class=\"contact-form\" id=\"contact-form\" action=\"#\" method=\"post\"><div class=\"form-row\"><div class=\"form-group\"><label for=\"name\">Name *</label><input type=\"text\" id=\"name\" name=\"name\" required></div><div class=\"form-group\"><label for=\"phone\">Phone *</label><input type=\"tel\" id=\"phone\" name=\"phone\" required></div></div><div class=\"form-row\"><div class=\"form-group\"><label for=\"email\">Email *</label><input type=\"email\" id=\"email\" name=\"email\" required></div><div class=\"form-group\"><label for=\"service-branch\">Branch of Service</label><select id=\"service-branch\" name=\"service-branch\"><option value=\"\">Select branch</option><option value=\"army\">Army</option><option value=\"navy\">Navy</option><option value=\"air-force\">Air Force</option><option value=\"marines\">Marines</option><option value=\"coast-guard\">Coast Guard</option><option value=\"space-force\">Space Force</option></select></div></div><div class=\"form-group\"><label for=\"address\">Home Address *</label><input type=\"text\" id=\"address\" name=\"address\" required></div><div class=\"form-group\"><label for=\"grant-type\">Which Grant Are You Interested In? *</label><select id=\"grant-type\" name=\"grant-type\" required><option value=\"\">Select a grant type</option><option value=\"hisa\">HISA (Home Improvements and Structural Alterations)</option><option value=\"sah\">SAH (Specially Adapted Housing)</option><option value=\"sha\">SHA (Special Housing Adaptation)</option><option value=\"tra\">TRA (Temporary Residence Adaptation)</option><option value=\"not-sure\">Not Sure / Need Guidance</option></select></div><div class=\"form-group\"><label for=\"modifications\">What Modifications Are You Considering?</label><textarea id=\"modifications\" name=\"modifications\" rows=\"4\" placeholder=\"e.g., wheelchair ramp, bathroom remodel, ceiling lift, widened doorways...\"></textarea></div><button type=\"submit\" class=\"btn btn-primary btn-large\">Get My Free Assessment</button></form>"
+          }
+        }
+      ]
+    }
+  ]
 }
